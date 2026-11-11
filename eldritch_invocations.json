@@ -1,0 +1,904 @@
+{
+  "agonizing blast": {
+    "title": "Agonizing Blast",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "eldritch blast"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "Your eldritch blast hits deal extra damage equal to your Charisma modifier."
+  },
+  "armor of shadows": {
+    "title": "Armor of Shadows",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "mage armor"
+    ],
+    "desc_long": "You can cast mage armor on yourself at will, with no spell slot or material components."
+  },
+  "ascendant step": {
+    "title": "Ascendant Step",
+    "level": 9,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "levitate"
+    ],
+    "desc_long": "You can cast levitate on yourself at will, with no spell slot or material components."
+  },
+  "aspect of the moon": {
+    "title": "Aspect of the Moon",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the tome"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "You don't need sleep and can't be put to sleep by any means. You can gain the benefits of a long rest by spending all 8 hours on light activity, such as reading your Book of Shadows or keeping watch."
+  },
+  "beast speech": {
+    "title": "Beast Speech",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "speak with animals"
+    ],
+    "desc_long": "You can cast speak with animals at will, with no spell slot."
+  },
+  "beguiling influence": {
+    "title": "Beguiling Influence",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "You gain proficiency in Deception and Persuasion."
+  },
+  "bewitching whispers": {
+    "title": "Bewitching Whispers",
+    "level": 7,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "1",
+    "spells": [
+      "compulsion"
+    ],
+    "desc_long": "You can cast compulsion once using a warlock spell slot, then can't do so again until you finish a long rest."
+  },
+  "bond of the talisman": {
+    "title": "Bond of the Talisman",
+    "level": 12,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the talisman"
+    ],
+    "range": "",
+    "action": "Action",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "Proficiency bonus",
+    "spells": [],
+    "desc_long": "While another creature wears your talisman, you can use your action to teleport to the unoccupied space nearest to them, as long as you're both on the same plane. The wearer can do the same to reach you. You can do this a number of times equal to your proficiency bonus, regaining all uses after a long rest."
+  },
+  "book of ancient secrets": {
+    "title": "Book of Ancient Secrets",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the tome"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "You can inscribe ritual magic in your Book of Shadows. Choose two 1st-level spells with the ritual tag from any class's list; they're added to the book without counting against your spells known, and you can cast them only as rituals while holding the book (unless you know them another way). You can also cast any warlock spell you know as a ritual if it has the ritual tag. You can add ritual spells you find to the book if the spell's level is no more than half your warlock level (rounded up), spending 2 hours and 50 gp of rare inks per spell level."
+  },
+  "chains of carceri": {
+    "title": "Chains of Carceri",
+    "level": 15,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the chain"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "",
+    "spells": [
+      "hold monster"
+    ],
+    "desc_long": "You can cast hold monster at will on a celestial, fiend, or elemental, with no spell slot or material components. You can't target the same creature with this again until you finish a long rest."
+  },
+  "cloak of flies": {
+    "title": "Cloak of Flies",
+    "level": 5,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "5 feet",
+    "action": "Bonus Action",
+    "save": "",
+    "duration": "",
+    "recovers": "SR/LR",
+    "uses": "1",
+    "spells": [],
+    "desc_long": "As a bonus action, you surround yourself with an aura of buzzing flies that extends 5 feet in every direction (not through total cover). It lasts until you're incapacitated or dismiss it as a bonus action. You have advantage on Charisma (Intimidation) checks and disadvantage on all other Charisma checks. Other creatures that start their turn in the aura take poison damage equal to your Charisma modifier (minimum 0). Once used, you can't use it again until you finish a short or long rest."
+  },
+  "devil's sight": {
+    "title": "Devil's Sight",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "120 feet",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "You can see normally in both magical and nonmagical darkness out to 120 feet."
+  },
+  "dreadful word": {
+    "title": "Dreadful Word",
+    "level": 7,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "1",
+    "spells": [
+      "confusion"
+    ],
+    "desc_long": "You can cast confusion once using a warlock spell slot, then can't do so again until you finish a long rest."
+  },
+  "eldritch mind": {
+    "title": "Eldritch Mind",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "You have advantage on Constitution saving throws made to maintain concentration on a spell."
+  },
+  "eldritch sight": {
+    "title": "Eldritch Sight",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "detect magic"
+    ],
+    "desc_long": "You can cast detect magic at will, with no spell slot or material components."
+  },
+  "eldritch smite": {
+    "title": "Eldritch Smite",
+    "level": 5,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the blade"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal extra force damage: 1d8 plus another 1d8 per level of the slot. If the target is Huge or smaller, you can also knock it prone."
+  },
+  "eldritch spear": {
+    "title": "Eldritch Spear",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "eldritch blast"
+    ],
+    "range": "300 feet",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "Your eldritch blast has a range of 300 feet."
+  },
+  "eyes of the rune keeper": {
+    "title": "Eyes of the Rune Keeper",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "You can read all writing."
+  },
+  "far scribe": {
+    "title": "Far Scribe",
+    "level": 5,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the tome"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "sending"
+    ],
+    "desc_long": "A new page appears in your Book of Shadows that can hold a number of names equal to your proficiency bonus; a creature can write its name there as an action with your permission. You can cast sending on a creature whose name is on the page, with no spell slot or material components, by writing the message on the page. The target hears it in their mind, and any reply appears on the page instead of in your mind. The writing fades after 1 minute. As an action, you can erase a name by touching it."
+  },
+  "fiendish vigor": {
+    "title": "Fiendish Vigor",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "false life"
+    ],
+    "desc_long": "You can cast false life on yourself at will as a 1st-level spell, with no spell slot or material components."
+  },
+  "gaze of two minds": {
+    "title": "Gaze of Two Minds",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "Touch",
+    "action": "Action",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "As an action, you touch a willing humanoid and perceive through its senses until the end of your next turn. While it's on your plane, you can use your action on later turns to extend this until the end of your next turn. You gain any special senses the creature has, but you are blinded and deafened to your own surroundings."
+  },
+  "ghostly gaze": {
+    "title": "Ghostly Gaze",
+    "level": 7,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "30 feet",
+    "action": "Action",
+    "save": "",
+    "duration": "1 minute (concentration)",
+    "recovers": "SR/LR",
+    "uses": "1",
+    "spells": [],
+    "desc_long": "As an action, you can see through solid objects out to 30 feet, and you have darkvision in that range if you lack it. This lasts 1 minute or until your concentration ends (as if concentrating on a spell), and objects appear as ghostly, transparent images. Once used, you can't use it again until you finish a short or long rest."
+  },
+  "gift of the depths": {
+    "title": "Gift of the Depths",
+    "level": 5,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "",
+    "spells": [
+      "water breathing"
+    ],
+    "desc_long": "You can breathe underwater and gain a swimming speed equal to your walking speed. You can also cast water breathing without a spell slot, regaining the ability to do so when you finish a long rest."
+  },
+  "gift of the ever-living ones": {
+    "title": "Gift of the Ever-Living Ones",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the chain"
+    ],
+    "range": "100 feet",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "When you regain hit points while your familiar is within 100 feet of you, any dice rolled to determine the amount are treated as having rolled their maximum value."
+  },
+  "gift of the protectors": {
+    "title": "Gift of the Protectors",
+    "level": 9,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the tome"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "1",
+    "spells": [],
+    "desc_long": "A new page appears in your Book of Shadows that can hold a number of names equal to your proficiency bonus; a creature can write its name there as an action with your permission. When a creature whose name is on the page is reduced to 0 hit points but not killed outright, it drops to 1 hit point instead. After this triggers, no creature can benefit from it until you finish a long rest. As an action, you can erase a name by touching it."
+  },
+  "grasp of hadar": {
+    "title": "Grasp of Hadar",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "eldritch blast"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "Once on each of your turns when your eldritch blast hits a creature, you can pull it 10 feet in a straight line closer to you."
+  },
+  "improved pact weapon": {
+    "title": "Improved Pact Weapon",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the blade"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "Any weapon you summon with Pact of the Blade can serve as a spellcasting focus for your warlock spells. It also gains a +1 bonus to attack and damage rolls unless it's a magic weapon that already has a bonus to those rolls. Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow."
+  },
+  "investment of the chain master": {
+    "title": "Investment of the Chain Master",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the chain"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "When you cast find familiar, the familiar gains these benefits: a flying or swimming speed (your choice) of 40 feet; you can command it to take the Attack action as a bonus action; its weapon attacks count as magical for overcoming resistance and immunity to nonmagical attacks; it uses your spell save DC if it forces a saving throw; and when it takes damage, you can use your reaction to give it resistance to that damage."
+  },
+  "lance of lethargy": {
+    "title": "Lance of Lethargy",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "eldritch blast"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "Once on each of your turns when your eldritch blast hits a creature, you can reduce its speed by 10 feet until the end of your next turn."
+  },
+  "lifedrinker": {
+    "title": "Lifedrinker",
+    "level": 12,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the blade"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "When you hit a creature with your pact weapon, it takes extra necrotic damage equal to your Charisma modifier (minimum 1)."
+  },
+  "maddening hex": {
+    "title": "Maddening Hex",
+    "level": 5,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "hex"
+    ],
+    "range": "30 feet",
+    "action": "Bonus Action",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or a warlock feature such as Hexblade's Curse or Sign of Ill Omen. The cursed target and each creature of your choice within 5 feet of it take psychic damage equal to your Charisma modifier (minimum 1). You must be able to see the cursed target, and it must be within 30 feet of you."
+  },
+  "mask of many faces": {
+    "title": "Mask of Many Faces",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "disguise self"
+    ],
+    "desc_long": "You can cast disguise self at will, with no spell slot."
+  },
+  "master of myriad forms": {
+    "title": "Master of Myriad Forms",
+    "level": 15,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "alter self"
+    ],
+    "desc_long": "You can cast alter self at will, with no spell slot."
+  },
+  "minions of chaos": {
+    "title": "Minions of Chaos",
+    "level": 9,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "1",
+    "spells": [
+      "conjure elemental"
+    ],
+    "desc_long": "You can cast conjure elemental once using a warlock spell slot, then can't do so again until you finish a long rest."
+  },
+  "mire the mind": {
+    "title": "Mire the Mind",
+    "level": 5,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "1",
+    "spells": [
+      "slow"
+    ],
+    "desc_long": "You can cast slow once using a warlock spell slot, then can't do so again until you finish a long rest."
+  },
+  "misty visions": {
+    "title": "Misty Visions",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "silent image"
+    ],
+    "desc_long": "You can cast silent image at will, with no spell slot or material components."
+  },
+  "one with shadows": {
+    "title": "One with Shadows",
+    "level": 5,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "Action",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "While you're in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or reaction."
+  },
+  "otherworldly leap": {
+    "title": "Otherworldly Leap",
+    "level": 9,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "jump"
+    ],
+    "desc_long": "You can cast jump at will, with no spell slot."
+  },
+  "protection of the talisman": {
+    "title": "Protection of the Talisman",
+    "level": 7,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the talisman"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "Proficiency bonus",
+    "spells": [],
+    "desc_long": "When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, possibly turning the failure into a success. This can be used a number of times equal to your proficiency bonus, regaining all uses after a long rest."
+  },
+  "rebuke of the talisman": {
+    "title": "Rebuke of the Talisman",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the talisman"
+    ],
+    "range": "30 feet",
+    "action": "Reaction",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your proficiency bonus and push it up to 10 feet away from the wearer."
+  },
+  "relentless hex": {
+    "title": "Relentless Hex",
+    "level": 7,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "hex or a feature that curses"
+    ],
+    "range": "30 feet",
+    "action": "Bonus Action",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "Your curse forms a bond between you and your target. As a bonus action, you can teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or a warlock feature such as Hexblade's Curse or Sign of Ill Omen. You must be able to see the cursed target."
+  },
+  "repelling blast": {
+    "title": "Repelling Blast",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "eldritch blast"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "When your eldritch blast hits a creature, you can push it up to 10 feet away from you in a straight line."
+  },
+  "sculptor of flesh": {
+    "title": "Sculptor of Flesh",
+    "level": 7,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "1",
+    "spells": [
+      "polymorph"
+    ],
+    "desc_long": "You can cast polymorph once using a warlock spell slot, then can't do so again until you finish a long rest."
+  },
+  "shroud of shadow": {
+    "title": "Shroud of Shadow",
+    "level": 15,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "invisibility"
+    ],
+    "desc_long": "You can cast invisibility at will, with no spell slot."
+  },
+  "sign of ill omen": {
+    "title": "Sign of Ill Omen",
+    "level": 5,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "1",
+    "spells": [
+      "bestow curse"
+    ],
+    "desc_long": "You can cast bestow curse once using a warlock spell slot, then can't do so again until you finish a long rest."
+  },
+  "thief of five fates": {
+    "title": "Thief of Five Fates",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "1",
+    "spells": [
+      "bane"
+    ],
+    "desc_long": "You can cast bane once using a warlock spell slot, then can't do so again until you finish a long rest."
+  },
+  "thirsting blade": {
+    "title": "Thirsting Blade",
+    "level": 5,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the blade"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "Whenever you take the Attack action on your turn, you can attack with your pact weapon twice instead of once."
+  },
+  "tomb of levistus": {
+    "title": "Tomb of Levistus",
+    "level": 5,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "Reaction",
+    "save": "",
+    "duration": "",
+    "recovers": "SR/LR",
+    "uses": "1",
+    "spells": [],
+    "desc_long": "As a reaction when you take damage, you can entomb yourself in ice that melts at the end of your next turn. You gain 10 temporary hit points per warlock level, which absorb as much of the triggering damage as possible. Right after you take the damage, you gain vulnerability to fire damage, your speed drops to 0, and you're incapacitated. These effects, including any leftover temporary hit points, end when the ice melts. Once used, you can't use it again until you finish a short or long rest."
+  },
+  "trickster's escape": {
+    "title": "Trickster's Escape",
+    "level": 7,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "1",
+    "spells": [
+      "freedom of movement"
+    ],
+    "desc_long": "You can cast freedom of movement on yourself once without expending a spell slot, regaining the ability to do so when you finish a long rest."
+  },
+  "undying servitude": {
+    "title": "Undying Servitude",
+    "level": 5,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "LR",
+    "uses": "1",
+    "spells": [
+      "animate dead"
+    ],
+    "desc_long": "You can cast animate dead without using a spell slot. Once you do, you can't cast it this way again until you finish a long rest."
+  },
+  "visions of distant realms": {
+    "title": "Visions of Distant Realms",
+    "level": 15,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "arcane eye"
+    ],
+    "desc_long": "You can cast arcane eye at will, with no spell slot."
+  },
+  "voice of the chain master": {
+    "title": "Voice of the Chain Master",
+    "level": 2,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [
+      "pact of the chain"
+    ],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "You can communicate telepathically with your familiar and perceive through its senses while you're on the same plane. While doing so, you can also speak through the familiar in your own voice, even if it can't normally speak."
+  },
+  "whispers of the grave": {
+    "title": "Whispers of the Grave",
+    "level": 9,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [
+      "speak with dead"
+    ],
+    "desc_long": "You can cast speak with dead at will, with no spell slot."
+  },
+  "witch sight": {
+    "title": "Witch Sight",
+    "level": 15,
+    "main": true,
+    "class": "Eldritch Invocation",
+    "prerequisite": [],
+    "range": "30 feet",
+    "action": "",
+    "save": "",
+    "duration": "",
+    "recovers": "",
+    "uses": "",
+    "spells": [],
+    "desc_long": "You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while it's within 30 feet of you and in line of sight."
+  }
+}

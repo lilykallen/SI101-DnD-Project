@@ -1,0 +1,2542 @@
+{
+  "aarakocra": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Flight": {
+        "title": "Flight",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Because of your wings, you have a flying speed equal to your walking speed. You can’t use this flying speed if you’re wearing medium or heavy armor."
+      },
+      "Talons": {
+        "title": "Talons",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have talons that you can use to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
+      },
+      "Wind Caller": {
+        "title": "Wind Caller",
+        "class": "Racial Trait",
+        "range": "Self (60-ft. line)",
+        "action": "Action",
+        "save": "Strength",
+        "duration": "1 minute",
+        "recovers": "Long Rest",
+        "uses": "1",
+        "desc_long": "Starting at 3rd level, you can cast the Gust of Wind spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can’t do so again until you finish a long rest. You can also cast the spell using any spell slots you have of 2nd level or higher. Intelligence, Wisdom, or Charisma is your spellcasting ability for it when you cast Gust of Wind with this trait (choose when you select this race)."
+      }
+    },
+    "spells": {
+      "3": [
+        "Gust of Wind"
+      ]
+    }
+  },
+  "aasimar": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium or small",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [
+      "necrotic",
+      "radiant"
+    ],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Celestial Resistance": {
+        "title": "Celestial Resistance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have resistance to necrotic damage and radiant damage."
+      },
+      "Healing Hands": {
+        "title": "Healing Hands",
+        "class": "Racial Trait",
+        "range": "Touch",
+        "action": "Action",
+        "save": "",
+        "duration": "Instantaneous",
+        "recovers": "Long Rest",
+        "uses": "1",
+        "desc_long": "As an action, you can touch a creature and roll a number of d4s equal to your proficiency bonus. The creature regains a number of hit points equal to the total rolled. Once you use this trait, you can’t use it again until you finish a long rest."
+      },
+      "Light Bearer": {
+        "title": "Light Bearer",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You know the Light cantrip. Charisma is your spellcasting ability for it."
+      },
+      "Celestial Revelation": {
+        "title": "Celestial Revelation",
+        "class": "Racial Trait",
+        "range": "10 ft.",
+        "action": "Bonus Action",
+        "save": "Charisma",
+        "duration": "1 minute",
+        "recovers": "Long Rest",
+        "uses": "1",
+        "desc_long": "When you reach 3rd level, choose one of the revelation options below. Thereafter, you can use a bonus action to unleash the celestial energy within yourself, gaining the benefits of that revelation. Your transformation lasts for 1 minute or until you end it as a bonus action. Once you transform using your revelation, you can’t use it again until you finish a long rest. Necrotic Shroud: Creatures other than your allies within 10 feet of you that can see you must succeed on a Charisma saving throw or become frightened of you until the end of your next turn. Until the transformation ends, once on each of your turns, you can deal extra necrotic damage equal to your proficiency bonus to one target when you deal damage to it with an attack or a spell. Radiant Consumption: You shed bright light in a 10-foot radius and dim light for an additional 10 feet. At the end of each of your turns, each creature within 10 feet of you takes radiant damage equal to your proficiency bonus. Once on each of your turns, you can deal extra radiant damage equal to your proficiency bonus to one target when you deal damage to it with an attack or a spell. Radiant Soul: You have a flying speed equal to your walking speed, and once on each of your turns, you can deal extra radiant damage equal to your proficiency bonus to one target when you deal damage to it with an attack or a spell."
+      }
+    },
+    "spells": {
+      "0": [
+        "Light"
+      ]
+    }
+  },
+  "changeling": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium or small",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Changeling Instincts": {
+        "title": "Changeling Instincts",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Thanks to your connection to the fey realm, you gain proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, Performance, or Persuasion."
+      },
+      "Shapechanger": {
+        "title": "Shapechanger",
+        "class": "Racial Trait",
+        "range": "Self",
+        "action": "Action",
+        "save": "",
+        "duration": "Until reverted or death",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight and can change your size between Medium and Small. You can make yourself appear as a member of another race, though none of your game statistics change. You can’t duplicate the appearance of an individual you’ve never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren’t changed by this trait. You stay in the new form until you use an action to revert to your true form or until you die."
+      }
+    }
+  },
+  "dragonborn": {
+    "ability bonuses": {
+      "STR": 2,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 1
+    },
+    "speed": 30,
+    "size": "medium",
+    "skills": [],
+    "languages": [
+      "Common",
+      "Draconic"
+    ],
+    "resistances": [
+      "breath_type"
+    ],
+    "breath_weapon_types": {
+      "black": "acid",
+      "blue": "lightning",
+      "brass": "fire",
+      "bronze": "lightning",
+      "copper": "acid",
+      "gold": "fire",
+      "green": "poison",
+      "red": "fire",
+      "silver": "cold",
+      "white": "cold"
+    },
+    "racial traits": {
+      "Draconic Ancestry": {
+        "title": "Draconic Ancestry",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You are distantly related to a particular kind of dragon. Choose a type of dragon from the list; this determines the damage and area of your breath weapon, and the type of resistance you gain."
+      }
+    }
+  },
+  "duergar": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [
+      "poison"
+    ],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "120 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 120 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Duergar Magic": {
+        "title": "Duergar Magic",
+        "class": "Racial Trait",
+        "range": "Self",
+        "action": "Action",
+        "save": "",
+        "duration": "Varies by spell",
+        "recovers": "Long Rest",
+        "uses": "1 of each spell",
+        "desc_long": "Starting at 3rd level, you can cast the Enlarge/Reduce spell on yourself with this trait, without requiring a material component. Starting at 5th level, you can also cast the Invisibility spell on yourself with this trait, without requiring a material component. Once you cast either of these spells with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+      },
+      "Dwarven Resilience": {
+        "title": "Dwarven Resilience",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws you make to avoid or end the poisoned condition on yourself. You also have resistance to poison damage."
+      },
+      "Psionic Fortitude": {
+        "title": "Psionic Fortitude",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws you make to avoid or end the charmed or stunned condition on yourself."
+      }
+    },
+    "spells": {
+      "3": [
+        "Enlarge/Reduce"
+      ],
+      "5": [
+        "Invisibility"
+      ]
+    }
+  },
+  "hill dwarf": {
+    "ability bonuses": {
+      "STR": 2,
+      "DEX": 0,
+      "CON": 2,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "speed": 25,
+    "size": "medium",
+    "hp_per_level": 1,
+    "skills": [],
+    "profs": {
+      "weapons": [
+        "Battleaxe",
+        "Handaxe",
+        "Light Hammer",
+        "Warhammer"
+      ]
+    },
+    "languages": [
+      "Common",
+      "Dwarvish"
+    ],
+    "resistances": [
+      "poison"
+    ],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+      },
+      "Dwarven Resilience": {
+        "title": "Dwarven Resilience",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws against poison, and you have resistance against poison damage."
+      },
+      "Dwarven Combat Training": {
+        "title": "Dwarven Combat Training",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency with the battleaxe, handaxe, light hammer, and warhammer."
+      },
+      "Stonecunning": {
+        "title": "Stonecunning",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
+      },
+      "Dwarven Toughness": {
+        "title": "Dwarven Toughness",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
+      }
+    }
+  },
+  "mountain dwarf": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 2,
+      "INT": 0,
+      "WIS": 1,
+      "CHA": 0
+    },
+    "speed": 25,
+    "size": "medium",
+    "skills": [],
+    "profs": {
+      "weapons": [
+        "Battleaxe",
+        "Handaxe",
+        "Light Hammer",
+        "Warhammer"
+      ],
+      "armor": [
+        "Light Armor",
+        "Medium Armor"
+      ]
+    },
+    "languages": [
+      "Common",
+      "Dwarvish"
+    ],
+    "resistances": [
+      "poison"
+    ],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+      },
+      "Dwarven Resilience": {
+        "title": "Dwarven Resilience",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws against poison, and you have resistance against poison damage."
+      },
+      "Dwarven Combat Training": {
+        "title": "Dwarven Combat Training",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency with the battleaxe, handaxe, light hammer, and warhammer."
+      },
+      "Stonecunning": {
+        "title": "Stonecunning",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
+      },
+      "Dwarven Armor Training": {
+        "title": "Dwarven Armor Training",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency with light and medium armor."
+      }
+    }
+  },
+  "eladrin": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium",
+    "skills": [
+      "perception"
+    ],
+    "languages": [
+      "Common",
+      "Elvish"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Fey Ancestry": {
+        "title": "Fey Ancestry",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws you make to avoid or end the charmed condition on yourself."
+      },
+      "Fey Step": {
+        "title": "Fey Step",
+        "class": "Racial Trait",
+        "range": "30 ft.",
+        "action": "Bonus Action",
+        "save": "Wisdom",
+        "duration": "Varies by season",
+        "recovers": "Long Rest",
+        "uses": "Proficiency Bonus",
+        "desc_long": "As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. When you reach 3rd level, your Fey Step gains an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Intelligence, Wisdom, or Charisma modifier (choose when you select this race). Autumn: Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to the creatures. Winter: One creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn. Spring: You can touch one willing creature within 5 feet of you, and that creature teleports instead of you to an unoccupied space you can see within 30 feet of you. Summer: Each creature of your choice that you can see within 5 feet of you takes fire damage equal to your proficiency bonus."
+      },
+      "Trance": {
+        "title": "Trance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "No Action",
+        "save": "",
+        "duration": "4 hours",
+        "recovers": "Long Rest",
+        "uses": "",
+        "desc_long": "You don’t need to sleep, and magic can’t put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness."
+      }
+    }
+  },
+  "high elf": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 2,
+      "CON": 0,
+      "INT": 1,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "speed": 30,
+    "size": "medium",
+    "skills": [
+      "perception"
+    ],
+    "profs": {
+      "weapons": [
+        "Longsword",
+        "Shortsword",
+        "Shortbow",
+        "Longbow"
+      ]
+    },
+    "languages": [
+      "Common",
+      "Elvish",
+      "extra"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+      },
+      "Keen Senses": {
+        "title": "Keen Senses",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency in the Perception skill."
+      },
+      "Fey Ancestry": {
+        "title": "Fey Ancestry",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
+      },
+      "Trance": {
+        "title": "Trance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "4 hours",
+        "recovers": "Long Rest",
+        "uses": "",
+        "desc_long": "Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+      },
+      "Elf Weapon Training": {
+        "title": "Elf Weapon Training",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency with the longsword, shortsword, shortbow, and longbow."
+      },
+      "Cantrip": {
+        "title": "Cantrip",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it."
+      }
+    }
+  },
+  "sea elf": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium",
+    "skills": [
+      "perception"
+    ],
+    "languages": [
+      "Common",
+      "Elvish",
+      "Aquan"
+    ],
+    "resistances": [
+      "cold"
+    ],
+    "racial traits": {
+      "Child of the Sea": {
+        "title": "Child of the Sea",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can breathe air and water, and you have resistance to cold damage."
+      },
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Fey Ancestry": {
+        "title": "Fey Ancestry",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws you make to avoid or end the charmed condition on yourself."
+      },
+      "Friend of the Sea": {
+        "title": "Friend of the Sea",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Aquatic animals have an extraordinary affinity with your people. You can communicate simple ideas to any Beast that has a swimming speed. It can understand your words, though you have no special ability to understand it in return."
+      },
+      "Keen Senses": {
+        "title": "Keen Senses",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency in the Perception skill."
+      },
+      "Trance": {
+        "title": "Trance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "No Action",
+        "save": "",
+        "duration": "4 hours",
+        "recovers": "Long Rest",
+        "uses": "",
+        "desc_long": "You don’t need to sleep, and magic can’t put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness."
+      }
+    }
+  },
+  "shadar-kai": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium",
+    "skills": [
+      "perception"
+    ],
+    "languages": [
+      "Common",
+      "Elvish"
+    ],
+    "resistances": [
+      "necrotic"
+    ],
+    "racial traits": {
+      "Blessing of the Raven Queen": {
+        "title": "Blessing of the Raven Queen",
+        "class": "Racial Trait",
+        "range": "30 ft.",
+        "action": "Bonus Action",
+        "save": "",
+        "duration": "Until start of next turn (damage resistance)",
+        "recovers": "Long Rest",
+        "uses": "Proficiency Bonus",
+        "desc_long": "As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent."
+      },
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Fey Ancestry": {
+        "title": "Fey Ancestry",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws you make to avoid or end the charmed condition on yourself."
+      },
+      "Keen Senses": {
+        "title": "Keen Senses",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency in the Perception skill."
+      },
+      "Necrotic Resistance": {
+        "title": "Necrotic Resistance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have resistance to necrotic damage."
+      }
+    }
+  },
+  "wood elf": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 2,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 1,
+      "CHA": 0
+    },
+    "speed": 35,
+    "size": "medium",
+    "skills": [
+      "perception"
+    ],
+    "profs": {
+      "weapons": [
+        "Longsword",
+        "Shortsword",
+        "Shortbow",
+        "Longbow"
+      ]
+    },
+    "languages": [
+      "Common",
+      "Elvish"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+      },
+      "Keen Senses": {
+        "title": "Keen Senses",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency in the Perception skill."
+      },
+      "Fey Ancestry": {
+        "title": "Fey Ancestry",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
+      },
+      "Trance": {
+        "title": "Trance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "4 hours",
+        "recovers": "Long Rest",
+        "uses": "",
+        "desc_long": "Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+      },
+      "Elf Weapon Training": {
+        "title": "Elf Weapon Training",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency with the longsword, shortsword, shortbow, and longbow."
+      },
+      "Fleet of Foot": {
+        "title": "Fleet of Foot",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Your base walking speed increases to 35 feet."
+      },
+      "Mask of the Wild": {
+        "title": "Mask of the Wild",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+      }
+    }
+  },
+  "fairy": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "small",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Fairy Magic": {
+        "title": "Fairy Magic",
+        "class": "Racial Trait",
+        "range": "Varies by spell",
+        "action": "Action",
+        "save": "Dexterity",
+        "duration": "Varies by spell",
+        "recovers": "Long Rest",
+        "uses": "1 of each spell",
+        "desc_long": "You know the Druidcraft cantrip. Starting at 3rd level, you can cast the Faerie Fire spell with this trait. Starting at 5th level, you can also cast the Enlarge/Reduce spell with this trait. Once you cast Faerie Fire or Enlarge/Reduce with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+      },
+      "Flight": {
+        "title": "Flight",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Because of your wings, you have a flying speed equal to your walking speed. You can’t use this flying speed if you’re wearing medium or heavy armor."
+      }
+    },
+    "spells": {
+      "0": [
+        "Druidcraft"
+      ],
+      "3": [
+        "Faerie Fire"
+      ],
+      "5": [
+        "Enlarge/Reduce"
+      ]
+    }
+  },
+  "firbolg": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Firbolg Magic": {
+        "title": "Firbolg Magic",
+        "class": "Racial Trait",
+        "range": "Self",
+        "action": "Action",
+        "save": "",
+        "duration": "10 minutes / 1 hour",
+        "recovers": "Long Rest",
+        "uses": "1 of each spell",
+        "desc_long": "You can cast the Detect Magic and Disguise Self spells with this trait. When you use this version of Disguise Self, you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+      },
+      "Hidden Step": {
+        "title": "Hidden Step",
+        "class": "Racial Trait",
+        "range": "Self",
+        "action": "Bonus Action",
+        "save": "",
+        "duration": "Until start of next turn or triggering event",
+        "recovers": "Long Rest",
+        "uses": "Proficiency Bonus",
+        "desc_long": "As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+      },
+      "Powerful Build": {
+        "title": "Powerful Build",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+      },
+      "Speech of Beast and Leaf": {
+        "title": "Speech of Beast and Leaf",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have the ability to communicate in a limited manner with Beasts, Plants, and vegetation. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them."
+      }
+    },
+    "spells": {
+      "0": [
+        "Detect Magic",
+        "Disguise Self"
+      ]
+    }
+  },
+  "air genasi": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 35,
+    "size": "medium or small",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [
+      "lightning"
+    ],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Unending Breath": {
+        "title": "Unending Breath",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can hold your breath indefinitely while you’re not incapacitated."
+      },
+      "Lightning Resistance": {
+        "title": "Lightning Resistance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have resistance to lightning damage."
+      },
+      "Mingle with the Wind": {
+        "title": "Mingle with the Wind",
+        "class": "Racial Trait",
+        "range": "Varies by spell",
+        "action": "Action / Reaction",
+        "save": "",
+        "duration": "1 minute / 10 minutes",
+        "recovers": "Long Rest",
+        "uses": "1 of each spell",
+        "desc_long": "You know the Shocking Grasp cantrip. Starting at 3rd level, you can cast the Feather Fall spell with this trait, without requiring a material component. Starting at 5th level, you can also cast the Levitate spell with this trait, without requiring a material component. Once you cast Feather Fall or Levitate with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+      }
+    },
+    "spells": {
+      "0": [
+        "Levitate"
+      ]
+    }
+  },
+  "earth genasi": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium or small",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Earth Walk": {
+        "title": "Earth Walk",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can move across difficult terrain without expending extra movement if you are using your walking speed on the ground or a floor."
+      },
+      "Merge with Stone": {
+        "title": "Merge with Stone",
+        "class": "Racial Trait",
+        "range": "Self",
+        "action": "Action / Bonus Action",
+        "save": "",
+        "duration": "1 hour",
+        "recovers": "Long Rest",
+        "uses": "Bonus-action Blade Ward: Proficiency Bonus; Pass without Trace: 1",
+        "desc_long": "You know the Blade Ward cantrip. You can cast it as normal, and you can also cast it as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest. Starting at 5th level, you can cast the Pass Without Trace spell with this trait, without requiring a material component. Once you cast that spell with this trait, you can’t do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+      }
+    },
+    "spells": {
+      "0": [
+        "Pass Without Trace"
+      ]
+    }
+  },
+  "fire genasi": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium or small",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [
+      "fire"
+    ],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Fire Resistance": {
+        "title": "Fire Resistance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have resistance to fire damage."
+      },
+      "Reach to the Blaze": {
+        "title": "Reach to the Blaze",
+        "class": "Racial Trait",
+        "range": "Varies by spell",
+        "action": "Action",
+        "save": "Dexterity",
+        "duration": "Instantaneous / 1 minute",
+        "recovers": "Long Rest",
+        "uses": "1 of each spell",
+        "desc_long": "You know the Produce Flame cantrip. Starting at 3rd level, you can cast the Burning Hands spell with this trait. Starting at 5th level, you can also cast the Flame Blade spell with this trait, without requiring a material component. Once you cast Burning Hands or Flame Blade with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+      }
+    },
+    "spells": {
+      "0": [
+        "Produce Flame"
+      ]
+    }
+  },
+  "water genasi": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium or small",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [
+      "acid"
+    ],
+    "swim_speed": "equal to walking speed",
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Acid Resistance": {
+        "title": "Acid Resistance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have resistance to acid damage."
+      },
+      "Amphibious": {
+        "title": "Amphibious",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can breathe air and water."
+      },
+      "Call to the Wave": {
+        "title": "Call to the Wave",
+        "class": "Racial Trait",
+        "range": "Varies by spell",
+        "action": "Action",
+        "save": "Dexterity",
+        "duration": "Instantaneous / 1 hour",
+        "recovers": "Long Rest",
+        "uses": "1 of each spell",
+        "desc_long": "You know the Acid Splash cantrip. Starting at 3rd level, you can cast the Create or Destroy Water spell with this trait. Starting at 5th level, you can also cast the Water Walk spell with this trait, without requiring a material component. Once you cast Create or Destroy Water or Water Walk with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+      }
+    },
+    "spells": {
+      "0": [
+        "Acid Splash"
+      ]
+    }
+  },
+  "githyanki": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium",
+    "skills": [],
+    "languages": [
+      "Common",
+      "Gith"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Astral Knowledge": {
+        "title": "Astral Knowledge",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "At end of Long Rest",
+        "save": "",
+        "duration": "Until end of next Long Rest",
+        "recovers": "Long Rest",
+        "uses": "1",
+        "desc_long": "You can mystically access a reservoir of experiences of entities connected to the Astral Plane. Whenever you finish a long rest, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the Player’s Handbook, as you momentarily project your consciousness into the Astral Plane. These proficiencies last until the end of your next long rest."
+      },
+      "Githyanki Psionics": {
+        "title": "Githyanki Psionics",
+        "class": "Racial Trait",
+        "range": "Varies by spell",
+        "action": "Action / Bonus Action",
+        "save": "",
+        "duration": "1 minute / Instantaneous",
+        "recovers": "Long Rest",
+        "uses": "1 of each spell",
+        "desc_long": "You know the Mage Hand cantrip, and the hand is invisible when you cast the cantrip with this trait. Starting at 3rd level, you can cast the Jump spell with this trait. Starting at 5th level, you can also cast the Misty Step spell with it. Once you cast Jump or Misty Step with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level."
+      }
+    },
+    "spells": {
+      "0": [
+        "Mage Hand"
+      ],
+      "3": [
+        "Jump"
+      ],
+      "5": [
+        "Misty Step"
+      ]
+    }
+  },
+  "githzerai": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium",
+    "skills": [],
+    "languages": [
+      "Common",
+      "Gith"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Githzerai Psionics": {
+        "title": "Githzerai Psionics",
+        "class": "Racial Trait",
+        "range": "Varies by spell",
+        "action": "Action / Reaction",
+        "save": "Wisdom",
+        "duration": "1 minute / Concentration, up to 1 minute",
+        "recovers": "Long Rest",
+        "uses": "1 of each spell",
+        "desc_long": "You know the Mage Hand cantrip, and the hand is invisible when you cast the cantrip with this trait. Starting at 3rd level, you can cast the Shield spell with this trait. Starting at 5th level, you can also cast the Detect Thoughts spell with it. Once you cast Shield or Detect Thoughts with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait."
+      }
+    }
+  },
+  "deep gnome": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "small",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "120 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 120 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Gift of the Svirfneblin": {
+        "title": "Gift of the Svirfneblin",
+        "class": "Racial Trait",
+        "range": "Varies by spell",
+        "action": "Action",
+        "save": "",
+        "duration": "Varies by spell",
+        "recovers": "Long Rest",
+        "uses": "1 of each spell",
+        "desc_long": "Starting at 3rd level, you can cast the Disguise Self spell with this trait. Starting at 5th level, you can also cast the Nondetection spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+      },
+      "Gnomish Magic Resistance": {
+        "title": "Gnomish Magic Resistance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on Intelligence, Wisdom, and Charisma saving throws against spells."
+      },
+      "Svirfneblin Camouflage": {
+        "title": "Svirfneblin Camouflage",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "No Action",
+        "save": "",
+        "duration": "One ability check",
+        "recovers": "Long Rest",
+        "uses": "Proficiency Bonus",
+        "desc_long": "When you make a Dexterity (Stealth) check, you can make the check with advantage. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+      }
+    }
+  },
+  "rock gnome": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 1,
+      "INT": 2,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "speed": 25,
+    "size": "small",
+    "skills": [],
+    "profs": {
+      "tools": [
+        "Tinker's Tools"
+      ]
+    },
+    "languages": [
+      "Common",
+      "Gnomish"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+      },
+      "Gnome Cunning": {
+        "title": "Gnome Cunning",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+      },
+      "Artificer's Lore": {
+        "title": "Artificer's Lore",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Whenever you make an Intelligence (History) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply."
+      },
+      "Tinker": {
+        "title": "Tinker",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "1 hour",
+        "save": "",
+        "duration": "24 hours",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time. When you create a device, choose one of the following options: Clockwork Toy, Fire Starter, or Music Box."
+      }
+    }
+  },
+  "goliath": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium",
+    "skills": [
+      "athletics"
+    ],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [
+      "cold"
+    ],
+    "racial traits": {
+      "Little Giant": {
+        "title": "Little Giant",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency in the Athletics skill, and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+      },
+      "Mountain Born": {
+        "title": "Mountain Born",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have resistance to cold damage. You also naturally acclimate to high altitudes, even if you’ve never been to one. This includes elevations above 20,000 feet."
+      },
+      "Stone's Endurance": {
+        "title": "Stone's Endurance",
+        "class": "Racial Trait",
+        "range": "Self",
+        "action": "Reaction",
+        "save": "",
+        "duration": "Instantaneous",
+        "recovers": "Long Rest",
+        "uses": "Proficiency Bonus",
+        "desc_long": "You can supernaturally draw on unyielding stone to shrug off harm. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled and reduce the damage by that total. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+      }
+    }
+  },
+  "half elf": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 2
+    },
+    "free assignment": 2,
+    "speed": 30,
+    "size": "medium",
+    "skills": [],
+    "free skills": 2,
+    "languages": [
+      "Common",
+      "Elvish",
+      "extra"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Thanks to your elven heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+      },
+      "Fey Ancestry": {
+        "title": "Fey Ancestry",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
+      },
+      "Skill Versatility": {
+        "title": "Skill Versatility",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You gain proficiency in two skills of your choice."
+      }
+    }
+  },
+  "half orc": {
+    "ability bonuses": {
+      "STR": 2,
+      "DEX": 0,
+      "CON": 1,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "speed": 30,
+    "size": "medium",
+    "skills": [
+      "intimidation"
+    ],
+    "languages": [
+      "Common",
+      "Orc"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+      },
+      "Menacing": {
+        "title": "Menacing",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You gain proficiency in the Intimidation skill."
+      },
+      "Relentless Endurance": {
+        "title": "Relentless Endurance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "Special",
+        "save": "",
+        "duration": "Instantaneous",
+        "recovers": "Long Rest",
+        "uses": "1",
+        "desc_long": "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest."
+      },
+      "Savage Attacks": {
+        "title": "Savage Attacks",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
+      }
+    }
+  },
+  "lightfoot halfling": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 2,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 1
+    },
+    "speed": 25,
+    "size": "small",
+    "skills": [],
+    "languages": [
+      "Common",
+      "Halfling"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Lucky": {
+        "title": "Lucky",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1."
+      },
+      "Brave": {
+        "title": "Brave",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws against being frightened."
+      },
+      "Halfling Nimbleness": {
+        "title": "Halfling Nimbleness",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can move through the space of any creature that is of a size larger than yours."
+      },
+      "Naturally Stealthy": {
+        "title": "Naturally Stealthy",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you."
+      }
+    }
+  },
+  "stout halfling": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 2,
+      "CON": 1,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "speed": 25,
+    "size": "small",
+    "skills": [],
+    "languages": [
+      "Common",
+      "Halfling"
+    ],
+    "resistances": [
+      "poison"
+    ],
+    "racial traits": {
+      "Lucky": {
+        "title": "Lucky",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1."
+      },
+      "Brave": {
+        "title": "Brave",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws against being frightened."
+      },
+      "Halfling Nimbleness": {
+        "title": "Halfling Nimbleness",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can move through the space of any creature that is of a size larger than yours."
+      },
+      "Stout Resilience": {
+        "title": "Stout Resilience",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws against poison, and you have resistance to poison damage."
+      }
+    }
+  },
+  "harengon": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium or small",
+    "skills": [
+      "perception"
+    ],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Hare-Trigger": {
+        "title": "Hare-Trigger",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can add your proficiency bonus to your initiative rolls."
+      },
+      "Leporine Senses": {
+        "title": "Leporine Senses",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency in the Perception skill."
+      },
+      "Lucky Footwork": {
+        "title": "Lucky Footwork",
+        "class": "Racial Trait",
+        "range": "Self",
+        "action": "Reaction",
+        "save": "Dexterity",
+        "duration": "Instantaneous",
+        "recovers": "",
+        "uses": "When you fail a Dexterity saving throw",
+        "desc_long": "When you fail a Dexterity saving throw, you can use your reaction to roll a d4 and add it to the save, potentially turning the failure into a success. You can’t use this reaction if you’re prone or your speed is 0."
+      },
+      "Rabbit Hop": {
+        "title": "Rabbit Hop",
+        "class": "Racial Trait",
+        "range": "5 × proficiency bonus ft.",
+        "action": "Bonus Action",
+        "save": "",
+        "duration": "Instantaneous",
+        "recovers": "Long Rest",
+        "uses": "Proficiency Bonus",
+        "desc_long": "As a bonus action, you can jump a number of feet equal to five times your proficiency bonus, without provoking opportunity attacks. You can use this trait only if your speed is greater than 0. You can use it a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+      }
+    }
+  },
+  "human": {
+    "ability bonuses": {
+      "STR": 1,
+      "DEX": 1,
+      "CON": 1,
+      "INT": 1,
+      "WIS": 1,
+      "CHA": 1
+    },
+    "speed": 30,
+    "size": "medium",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [],
+    "racial traits": {}
+  },
+  "kenku": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium or small",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Expert Duplication": {
+        "title": "Expert Duplication",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "When you copy writing or craftwork produced by yourself or someone else, you have advantage on any ability checks you make to produce an exact duplicate."
+      },
+      "Kenku Recall": {
+        "title": "Kenku Recall",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "Before an ability check",
+        "save": "",
+        "duration": "For one ability check",
+        "recovers": "Long Rest",
+        "uses": "Proficiency Bonus",
+        "desc_long": "Thanks to your supernaturally good memory, you have proficiency in two skills of your choice. Moreover, when you make an ability check using any skill in which you have proficiency, you can give yourself advantage on the check before rolling the d20. You can give yourself advantage in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+      },
+      "Mimicry": {
+        "title": "Mimicry",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can accurately mimic sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful Wisdom (Insight) check against a DC equal to 8 + your proficiency bonus + your Charisma modifier."
+      }
+    }
+  },
+  "locathah": {
+    "ability bonuses": {
+      "STR": 2,
+      "DEX": 1,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "speed": 30,
+    "size": "medium",
+    "skills": [
+      "athletics",
+      "perception"
+    ],
+    "languages": [
+      "Aquan",
+      "Common"
+    ],
+    "resistances": [],
+    "swim_speed": 30,
+    "racial traits": {
+      "Natural Armor": {
+        "title": "Natural Armor",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have tough, scaly skin. When you aren’t wearing armor, your AC is 12 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield’s benefits apply as normal while you use your natural armor."
+      },
+      "Observant and Athletic": {
+        "title": "Observant and Athletic",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency in the Athletics and Perception skills."
+      },
+      "Leviathan Will": {
+        "title": "Leviathan Will",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep."
+      },
+      "Limited Amphibiousness": {
+        "title": "Limited Amphibiousness",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "No Action",
+        "save": "",
+        "duration": "4 hours between submersions",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can breathe air and water, but you need to be submerged at least once every 4 hours to avoid suffocating."
+      }
+    }
+  },
+  "owlin": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium or small",
+    "skills": [
+      "stealth"
+    ],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "120 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 120 feet of yourself as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Flight": {
+        "title": "Flight",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Thanks to your wings, you have a flying speed equal to your walking speed. You can’t use this flying speed if you’re wearing medium or heavy armor."
+      },
+      "Silent Feathers": {
+        "title": "Silent Feathers",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency in the Stealth skill."
+      }
+    }
+  },
+  "satyr": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 35,
+    "size": "medium",
+    "skills": [
+      "performance",
+      "persuasion"
+    ],
+    "languages": [
+      "Common",
+      "Sylvan"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Ram": {
+        "title": "Ram",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can use your head and horns to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike."
+      },
+      "Magic Resistance": {
+        "title": "Magic Resistance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on saving throws against spells."
+      },
+      "Mirthful Leaps": {
+        "title": "Mirthful Leaps",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Whenever you make a long jump or a high jump, you can roll a d8 and add the number rolled to the number of feet you cover, even when making a standing jump. This extra distance costs movement as normal."
+      },
+      "Reveler": {
+        "title": "Reveler",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "As an embodiment of revelry, you have proficiency in the Performance and Persuasion skills, and you have proficiency with one musical instrument of your choice."
+      }
+    }
+  },
+  "tabaxi": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium or small",
+    "skills": [
+      "perception",
+      "stealth"
+    ],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [],
+    "climb_speed": "equal to walking speed",
+    "racial traits": {
+      "Cat's Claws": {
+        "title": "Cat's Claws",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can use your claws to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
+      },
+      "Cat's Talent": {
+        "title": "Cat's Talent",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have proficiency in the Perception and Stealth skills."
+      },
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Feline Agility": {
+        "title": "Feline Agility",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "No Action",
+        "save": "",
+        "duration": "Until end of turn",
+        "recovers": "When you move 0 feet on a turn",
+        "uses": "1",
+        "desc_long": "Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can’t use it again until you move 0 feet on one of your turns."
+      }
+    }
+  },
+  "tiefling": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 1,
+      "WIS": 0,
+      "CHA": 2
+    },
+    "speed": 30,
+    "size": "medium",
+    "skills": [],
+    "languages": [
+      "Common",
+      "Infernal"
+    ],
+    "resistances": [
+      "fire"
+    ],
+    "racial traits": {
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+      },
+      "Hellish Resistance": {
+        "title": "Hellish Resistance",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have resistance to fire damage."
+      },
+      "Infernal Legacy": {
+        "title": "Infernal Legacy",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "Special",
+        "save": "Charisma",
+        "duration": "",
+        "recovers": "Long Rest",
+        "uses": "",
+        "desc_long": "You know the Thaumaturgy cantrip. When you reach 3rd level, you can cast the Hellish Rebuke spell once as a 2nd-level spell. You must finish a long rest to cast it again using this trait. When you reach 5th level, you can also cast the Darkness spell once using this trait. You must finish a long rest to cast it again using this trait. Charisma is your spellcasting ability for these spells."
+      }
+    },
+    "spells": {
+      "0": [
+        "Thaumaturgy"
+      ],
+      "3": [
+        "Hellish Rebuke"
+      ],
+      "5": [
+        "Darkness"
+      ]
+    }
+  },
+  "tortle": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium or small",
+    "skills": [],
+    "languages": [
+      "Common"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Claws": {
+        "title": "Claws",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have claws that you can use to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
+      },
+      "Hold Breath": {
+        "title": "Hold Breath",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "No Action",
+        "save": "",
+        "duration": "1 hour",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can hold your breath for up to 1 hour."
+      },
+      "Natural Armor": {
+        "title": "Natural Armor",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Your shell provides you a base AC of 17 (your Dexterity modifier doesn’t affect this number). You can’t wear light, medium, or heavy armor, but if you are using a shield, you can apply the shield’s bonus as normal."
+      },
+      "Nature's Intuition": {
+        "title": "Nature's Intuition",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: Animal Handling, Medicine, Nature, Perception, Stealth, or Survival."
+      },
+      "Shell Defense": {
+        "title": "Shell Defense",
+        "class": "Racial Trait",
+        "range": "Self",
+        "action": "Action",
+        "save": "",
+        "duration": "Until you emerge",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can’t increase, you have disadvantage on Dexterity saving throws, you can’t take reactions, and the only action you can take is a bonus action to emerge from your shell."
+      }
+    }
+  },
+  "triton": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 0,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 0
+    },
+    "free assignment": 3,
+    "speed": 30,
+    "size": "medium",
+    "skills": [],
+    "languages": [
+      "Common",
+      "extra"
+    ],
+    "resistances": [
+      "cold"
+    ],
+    "swim_speed": "equal to walking speed",
+    "racial traits": {
+      "Amphibious": {
+        "title": "Amphibious",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can breathe air and water."
+      },
+      "Control Air and Water": {
+        "title": "Control Air and Water",
+        "class": "Racial Trait",
+        "range": "Varies by spell",
+        "action": "Action",
+        "save": "Strength",
+        "duration": "1 hour / 1 minute / 1 hour",
+        "recovers": "Long Rest",
+        "uses": "1 of each spell",
+        "desc_long": "You can cast the Fog Cloud spell with this trait. Starting at 3rd level, you can cast the Gust of Wind spell with this trait. Starting at 5th level, you can also cast the Water Walk spell with it. Once you cast any of these spells with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+      },
+      "Darkvision": {
+        "title": "Darkvision",
+        "class": "Racial Trait",
+        "range": "60 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+      },
+      "Emissary of the Sea": {
+        "title": "Emissary of the Sea",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can communicate simple ideas to any Beast, Elemental, or Monstrosity that has a swimming speed. It can understand your words, though you have no special ability to understand it in return."
+      },
+      "Guardian of the Depths": {
+        "title": "Guardian of the Depths",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Adapted to the frigid ocean depths, you have resistance to cold damage."
+      }
+    },
+    "spells": {
+      "0": [
+        "Fog Cloud"
+      ],
+      "3": [
+        "Gust of Wind"
+      ],
+      "5": [
+        "Wall of Water"
+      ]
+    }
+  },
+  "verdan": {
+    "ability bonuses": {
+      "STR": 0,
+      "DEX": 0,
+      "CON": 1,
+      "INT": 0,
+      "WIS": 0,
+      "CHA": 2
+    },
+    "speed": 30,
+    "size": "small at level 1, medium at level 5",
+    "skills": [],
+    "languages": [
+      "Common",
+      "Goblin"
+    ],
+    "resistances": [],
+    "racial traits": {
+      "Black Blood Healing": {
+        "title": "Black Blood Healing",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "No Action",
+        "save": "",
+        "duration": "At the end of a Short Rest",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "The black blood that is a sign of your people’s connection to That-Which-Endures boosts your natural healing. When you roll either 1 or 2 on any Hit Die you spend at the end of a short rest, you can re-roll the die and must use the new roll."
+      },
+      "Limited Telepathy": {
+        "title": "Limited Telepathy",
+        "class": "Racial Trait",
+        "range": "30 ft.",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can telepathically speak to any creature you can see within 30 feet of you. You don’t need to share a language with the creature, but the creature must be able to understand at least one language. Your telepathic link doesn’t allow the creature to respond telepathically."
+      },
+      "Persuasive": {
+        "title": "Persuasive",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You gain proficiency in the Persuasion skill."
+      },
+      "Telepathic Insight": {
+        "title": "Telepathic Insight",
+        "class": "Racial Trait",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have advantage on all Wisdom and Charisma saving throws."
+      }
+    }
+  }
+}

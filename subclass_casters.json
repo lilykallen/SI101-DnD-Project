@@ -1,0 +1,26 @@
+{
+  "fighter": {
+    "eldritch knight": {
+      "cast_mod": "INT",
+      "caster_from": 3,
+      "schools": [
+        "abjuration",
+        "evocation"
+      ],
+      "bonus cantrips": []
+    }
+  },
+  "rogue": {
+    "arcane trickster": {
+      "cast_mod": "INT",
+      "caster_from": 3,
+      "schools": [
+        "enchantment",
+        "illusion"
+      ],
+      "bonus cantrips": [
+        "Mage Hand"
+      ]
+    }
+  }
+}

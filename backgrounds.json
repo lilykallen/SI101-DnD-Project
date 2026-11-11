@@ -1,0 +1,397 @@
+{
+  "acolyte": {
+    "feature": {
+      "Shelter of the Faithful": {
+        "title": "Shelter of the Faithful",
+        "class": "Background",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle. You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple."
+      }
+    },
+    "profs": {
+      "tools": [],
+      "skill": [
+        "insight",
+        "religion"
+      ],
+      "languages": [
+        "pick",
+        "pick"
+      ]
+    },
+    "equipment": [
+      "A Holy Symbol",
+      "A Prayer Book",
+      "Stick of Incense x5",
+      "Vestments",
+      "Common Clothes"
+    ],
+    "money": 15
+  },
+  "charlatan": {
+    "feature": {
+      "False Identity": {
+        "title": "False Identity",
+        "class": "Background",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy."
+      }
+    },
+    "profs": {
+      "tools": [
+        "Disguise Kit",
+        "Forgery Kit"
+      ],
+      "skill": [
+        "deception",
+        "sleight of hand"
+      ],
+      "languages": []
+    },
+    "equipment": [
+      "Fine Clothes",
+      "Disguise Kit"
+    ],
+    "money": 15
+  },
+  "criminal": {
+    "feature": {
+      "Criminal Contact": {
+        "title": "Criminal Contact",
+        "class": "Background",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you."
+      }
+    },
+    "profs": {
+      "tools": [
+        "Thieves' Tools",
+        "pick gaming"
+      ],
+      "skill": [
+        "deception",
+        "stealth"
+      ],
+      "languages": []
+    },
+    "equipment": [
+      "Crowbar",
+      "Common Clothes (With Hood)"
+    ],
+    "money": 15
+  },
+  "entertainer": {
+    "feature": {
+      "By Popular Demand": {
+        "title": "By Popular Demand",
+        "class": "Background",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You can always find a place to perform, usually in an inn or tavern but possibly with a circus, at a theater, or even in a noble's court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you."
+      }
+    },
+    "profs": {
+      "tools": [
+        "Disguise Kit",
+        "pick instrument"
+      ],
+      "skill": [
+        "acrobatics",
+        "performance"
+      ],
+      "languages": []
+    },
+    "equipment": [
+      "Instrument",
+      "Favor of an Admirer",
+      "Costume"
+    ],
+    "money": 15
+  },
+  "folk hero": {
+    "feature": {
+      "Rustic Hospitality": {
+        "title": "Rustic Hospitality",
+        "class": "Background",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Since you come from the ranks of the common folk, you fit in among them with ease. You can find a place to hide, rest, or recuperate among other commoners, unless you have shown yourself to be a danger to them. They will shield you from the law or anyone else searching for you, though they will not risk their lives for you."
+      }
+    },
+    "profs": {
+      "tools": [
+        "Vehicles (Land)",
+        "pick artisans"
+      ],
+      "skill": [
+        "animal handling",
+        "survival"
+      ],
+      "languages": []
+    },
+    "equipment": [
+      "pick artisans",
+      "Shovel",
+      "Iron Pot",
+      "Common Clothes"
+    ],
+    "money": 10
+  },
+  "guild artisan": {
+    "feature": {
+      "Guild Membership": {
+        "title": "Guild Membership",
+        "class": "Background",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings. Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers. You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces."
+      }
+    },
+    "profs": {
+      "tools": [
+        "pick artisans"
+      ],
+      "skill": [
+        "insight",
+        "persuasion"
+      ],
+      "languages": [
+        "pick"
+      ]
+    },
+    "equipment": [
+      "pick artisans",
+      "Letter of Introduction from your Guild",
+      "Traveler's Clothes"
+    ],
+    "money": 15
+  },
+  "haunted one": {
+    "feature": {
+      "Heart of Darkness": {
+        "title": "Heart of Darkness",
+        "class": "Background",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they will even take up arms to fight alongside you, should you find yourself facing an enemy alone."
+      }
+    },
+    "profs": {
+      "tools": [],
+      "skill": [
+        "arcana",
+        "investigation",
+        "religion",
+        "survival"
+      ],
+      "languages": [
+        "pick",
+        "pick"
+      ]
+    },
+    "equipment": [
+      "Monster Hunter's Pack",
+      "A Trinket",
+      "Common Clothes"
+    ],
+    "money": 1
+  },
+  "hermit": {
+    "feature": {
+      "Discovery": {
+        "title": "Discovery",
+        "class": "Background",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "The quiet seclusion of your extended hermitage gave you access to a unique and powerful discovery. The exact nature of this revelation depends on the nature of your seclusion. It might be a great truth about the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature. It could be a site that no one else has ever seen. You might have uncovered a fact that has long been forgotten, or unearthed some relic of the past that could rewrite history. It might be information that would be damaging to the people who consigned you to exile, and hence the reason for your return to society."
+      }
+    },
+    "profs": {
+      "tools": [
+        "Herbalism Kit"
+      ],
+      "skill": [
+        "medicine",
+        "religion"
+      ],
+      "languages": [
+        "pick"
+      ]
+    },
+    "equipment": [
+      "Scroll Case",
+      "Winter Blanket",
+      "Common Clothes",
+      "Herbalism Kit"
+    ],
+    "money": 5
+  },
+  "noble": {
+    "feature": {
+      "Position of Privilege": {
+        "title": "Position of Privilege",
+        "class": "Background",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to."
+      }
+    },
+    "profs": {
+      "tools": [
+        "pick gaming"
+      ],
+      "skill": [
+        "history",
+        "persuasion"
+      ],
+      "languages": [
+        "pick"
+      ]
+    },
+    "equipment": [
+      "Fine Clothes",
+      "Signet Ring",
+      "Scroll of Pedigree"
+    ],
+    "money": 25
+  },
+  "sage": {
+    "feature": {
+      "Researcher": {
+        "title": "Researcher",
+        "class": "Background",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature. Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign."
+      }
+    },
+    "profs": {
+      "tools": [],
+      "skill": [
+        "history",
+        "arcana"
+      ],
+      "languages": [
+        "pick",
+        "pick"
+      ]
+    },
+    "equipment": [
+      "Bottle of Ink",
+      "Quill",
+      "Small Knife",
+      "Letter from Dead Colleague",
+      "Common Clothes"
+    ],
+    "money": 10
+  },
+  "sailor": {
+    "feature": {
+      "Ship's Passage": {
+        "title": "Ship's Passage",
+        "class": "Background",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you're calling in a favor, you can't be certain of a schedule or route that will meet your every need. Your DM will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage."
+      }
+    },
+    "profs": {
+      "tools": [
+        "Navigator's Tools",
+        "Vehicles (Water)"
+      ],
+      "skill": [
+        "athletics",
+        "perception"
+      ],
+      "languages": []
+    },
+    "equipment": [
+      "Belaying Pin",
+      "Silk Rope (50 ft.)",
+      "Lucky Charm",
+      "Common Clothes"
+    ],
+    "money": 10
+  },
+  "soldier": {
+    "feature": {
+      "Military Rank": {
+        "title": "Military Rank",
+        "class": "Background",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. You can also usually gain access to friendly military encampments and fortresses where your rank is recognized."
+      }
+    },
+    "profs": {
+      "tools": [
+        "pick gaming",
+        "Vehicles (Land)"
+      ],
+      "skill": [
+        "athletics",
+        "intimidation"
+      ],
+      "languages": []
+    },
+    "equipment": [
+      "Insignia of Rank",
+      "Trophy from a Fallen Enemy",
+      "Bone Dice",
+      "Common Clothes"
+    ],
+    "money": 10
+  }
+}
