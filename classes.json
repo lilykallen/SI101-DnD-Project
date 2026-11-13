@@ -2108,7 +2108,7 @@
           "Channel Divinity: Knowledge of the Ages": {
             "title": "Channel Divinity: Knowledge of the Ages",
             "level": 2,
-            "main": true,
+            "main": false,
             "class": "Cleric Subclass",
             "range": "",
             "action": "Action",
@@ -2342,7 +2342,7 @@
           "Improved Flare": {
             "title": "Improved Flare",
             "level": 6,
-            "main": true,
+            "main": false,
             "class": "Cleric Subclass",
             "range": "30 ft.",
             "action": "Reaction",
