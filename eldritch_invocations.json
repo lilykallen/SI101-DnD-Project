@@ -129,7 +129,7 @@
     "save": "",
     "duration": "",
     "recovers": "LR",
-    "uses": "Proficiency bonus",
+    "uses": "prof",
     "spells": [],
     "desc_long": "While another creature wears your talisman, you can use your action to teleport to the unoccupied space nearest to them, as long as you're both on the same plane. The wearer can do the same to reach you. You can do this a number of times equal to your proficiency bonus, regaining all uses after a long rest."
   },
@@ -646,7 +646,7 @@
     "save": "",
     "duration": "",
     "recovers": "LR",
-    "uses": "Proficiency bonus",
+    "uses": "prof",
     "spells": [],
     "desc_long": "When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, possibly turning the failure into a success. This can be used a number of times equal to your proficiency bonus, regaining all uses after a long rest."
   },
