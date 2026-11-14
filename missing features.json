@@ -1,0 +1,84 @@
+{
+  "missing features": {
+    "artificer": {
+      "tool expertise": {
+        "title": "Tool Expertise",
+        "level": 6,
+        "class": "Class",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "At 6th level, your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool."
+      }
+    },
+    "bard": {
+      "jack of all trades": {
+        "title": "Jack of All Trades",
+        "level": 2,
+        "class": "Class",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus."
+      },
+      "font of inspiration": {
+        "title": "Font of Inspiration",
+        "level": 5,
+        "class": "Class",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest."
+      },
+      "magical secrets": {
+        "title": "Magical Secrets",
+        "level": 10,
+        "class": "Class",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table. You learn two additional spells from any classes at 14th level and again at 18th level."
+      }
+    },
+    "druid": {
+      "druidic": {
+        "title": "Druidic",
+        "level": 1,
+        "class": "Class",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic."
+      }
+    },
+    "rogue": {
+      "slippery mind": {
+        "title": "Slippery Mind",
+        "level": 1,
+        "class": "Class",
+        "range": "",
+        "action": "",
+        "save": "",
+        "duration": "",
+        "recovers": "",
+        "uses": "",
+        "desc_long": "By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws."
+      }
+    }
+  }
+}
