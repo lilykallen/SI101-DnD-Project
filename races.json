@@ -411,8 +411,8 @@
         "Warhammer"
       ],
       "armor": [
-        "Light Armor",
-        "Medium Armor"
+        "light armor",
+        "medium armor"
       ]
     },
     "languages": [
