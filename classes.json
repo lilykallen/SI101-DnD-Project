@@ -25,12 +25,12 @@
     ],
     "other profs": {
       "armor": [
-        "Light Armor",
-        "Medium Armor",
-        "Shields"
+        "light armor",
+        "medium armor",
+        "shields"
       ],
       "weapons": [
-        "Simple Weapons"
+        "simple weapons"
       ],
       "tools": [
         "Thieves' Tools",
@@ -173,7 +173,7 @@
       "armorer": {
         "profs": {
           "armor": [
-            "Heavy Armor"
+            "heavy armor"
           ],
           "weapons": [],
           "tools": [
@@ -511,13 +511,13 @@
     ],
     "other profs": {
       "armor": [
-        "Light Armor",
-        "Medium Armor",
-        "Shields"
+        "light armor",
+        "medium armor",
+        "shields"
       ],
       "weapons": [
-        "Simple Weapons",
-        "Martial Weapons"
+        "simple weapons",
+        "martial weapons"
       ],
       "tools": []
     },
@@ -944,10 +944,10 @@
     ],
     "other profs": {
       "armor": [
-        "Light Armor"
+        "light armor"
       ],
       "weapons": [
-        "Simple Weapons",
+        "simple weapons",
         "Hand Crossbows",
         "Longswords",
         "Rapiers",
@@ -1427,7 +1427,7 @@
         "profs": {
           "armor": [
             "Medium armor",
-            "Shields"
+            "shields"
           ],
           "weapons": [
             "Martial weapons"
@@ -1576,11 +1576,11 @@
     ],
     "other profs": {
       "armor": [
-        "Light Armor",
-        "Heavy Armor"
+        "light armor",
+        "heavy armor"
       ],
       "weapons": [
-        "Simple Weapons"
+        "simple weapons"
       ],
       "tools": []
     },
@@ -1733,7 +1733,7 @@
         "profs": {
           "armor": [],
           "weapons": [
-            "Martial Weapons"
+            "martial weapons"
           ],
           "tools": []
         },
@@ -1843,7 +1843,7 @@
       "forge domain": {
         "profs": {
           "armor": [
-            "Heavy Armor"
+            "heavy armor"
           ],
           "weapons": [],
           "tools": [
@@ -2162,7 +2162,7 @@
       "life domain": {
         "profs": {
           "armor": [
-            "Heavy Armor"
+            "heavy armor"
           ],
           "weapons": [],
           "tools": []
@@ -2383,7 +2383,7 @@
       "nature domain": {
         "profs": {
           "armor": [
-            "Heavy Armor"
+            "heavy armor"
           ],
           "weapons": [],
           "tools": []
@@ -2494,7 +2494,7 @@
       "order domain": {
         "profs": {
           "armor": [
-            "Heavy Armor"
+            "heavy armor"
           ],
           "weapons": [],
           "tools": []
@@ -2714,10 +2714,10 @@
       "tempest domain": {
         "profs": {
           "armor": [
-            "Heavy Armor"
+            "heavy armor"
           ],
           "weapons": [
-            "Martial Weapons"
+            "martial weapons"
           ],
           "tools": []
         },
@@ -2923,10 +2923,10 @@
       "twilight domain": {
         "profs": {
           "armor": [
-            "Heavy Armor"
+            "heavy armor"
           ],
           "weapons": [
-            "Martial Weapons"
+            "martial weapons"
           ],
           "tools": []
         },
@@ -3049,10 +3049,10 @@
       "war domain": {
         "profs": {
           "armor": [
-            "Heavy Armor"
+            "heavy armor"
           ],
           "weapons": [
-            "Martial Weapons"
+            "martial weapons"
           ],
           "tools": []
         },
@@ -3188,9 +3188,9 @@
     ],
     "other profs": {
       "armor": [
-        "Light Armor",
-        "Medium Armor",
-        "Shields"
+        "light armor",
+        "medium armor",
+        "shields"
       ],
       "weapons": [
         "Clubs",
@@ -3983,11 +3983,11 @@
     "other profs": {
       "armor": [
         "All Armor",
-        "Shields"
+        "shields"
       ],
       "weapons": [
-        "Simple Weapons",
-        "Martial Weapons"
+        "simple weapons",
+        "martial weapons"
       ],
       "tools": []
     },
@@ -4886,7 +4886,7 @@
     "other profs": {
       "armor": [],
       "weapons": [
-        "Simple Weapons",
+        "simple weapons",
         "Shortswords"
       ],
       "tools": [
@@ -5624,11 +5624,11 @@
     "other profs": {
       "armor": [
         "All Armor",
-        "Shields"
+        "shields"
       ],
       "weapons": [
-        "Simple Weapons",
-        "Martial Weapons"
+        "simple weapons",
+        "martial weapons"
       ],
       "tools": []
     },
@@ -6583,13 +6583,13 @@
     ],
     "other profs": {
       "armor": [
-        "Light Armor",
-        "Medium Armor",
-        "Shields"
+        "light armor",
+        "medium armor",
+        "shields"
       ],
       "weapons": [
-        "Simple Weapons",
-        "Martial Weapons"
+        "simple weapons",
+        "martial weapons"
       ],
       "tools": []
     },
@@ -7344,10 +7344,10 @@
     ],
     "other profs": {
       "armor": [
-        "Light Armor"
+        "light armor"
       ],
       "weapons": [
-        "Simple Weapons",
+        "simple weapons",
         "Hand Crossbows",
         "Longswords",
         "Rapiers",
@@ -9543,11 +9543,11 @@
       "hexblade": {
         "profs": {
           "armor": [
-            "Medium Armor",
-            "Shields"
+            "medium armor",
+            "shields"
           ],
           "weapons": [
-            "Martial Weapons"
+            "martial weapons"
           ],
           "tools": []
         },
@@ -9957,7 +9957,7 @@
       "school of bladesinging": {
         "profs": {
           "armor": [
-            "Light Armor"
+            "light armor"
           ],
           "weapons": [
             "melee"
