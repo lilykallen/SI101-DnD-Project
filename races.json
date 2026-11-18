@@ -133,7 +133,7 @@
         "duration": "1 min.",
         "recovers": "LR",
         "uses": "1",
-        "desc_long": "When you reach 3rd level, choose one of the revelation options below. Thereafter, you can use a bonus action to unleash the celestial energy within yourself, gaining the benefits of that revelation. Your transformation lasts for 1 min. or until you end it as a bonus action. Once you transform using your revelation, you can’t use it again until you finish a long rest. Necrotic Shroud: Creatures other than your allies within 10 ft. of you that can see you must succeed on a Charisma saving throw or become frightened of you until the end of your next turn. Until the transformation ends, once on each of your turns, you can deal extra necrotic damage equal to your proficiency bonus to one target when you deal damage to it with an attack or a spell. Radiant Consumption: You shed bright light in a 10-ft. radius and dim light for an additional 10 ft.. At the end of each of your turns, each creature within 10 ft. of you takes radiant damage equal to your proficiency bonus. Once on each of your turns, you can deal extra radiant damage equal to your proficiency bonus to one target when you deal damage to it with an attack or a spell. Radiant Soul: You have a flying speed equal to your walking speed, and once on each of your turns, you can deal extra radiant damage equal to your proficiency bonus to one target when you deal damage to it with an attack or a spell."
+        "desc_long": "When you reach 3rd level, choose one of the revelation options below. Thereafter, you can use a bonus action to unleash the celestial energy within yourself, gaining the benefits of that revelation. Your transformation lasts for 1 min. or until you end it as a bonus action. Once you transform using your revelation, you can’t use it again until you finish a long rest. Necrotic Shroud: Creatures other than your allies within 10 ft. of you that can see you must succeed on a Charisma saving throw or become frightened of you until the end of your next turn. Until the transformation ends, once on each of your turns, you can deal extra necrotic damage equal to your proficiency bonus to one target when you deal damage to it with an attack or a spell. Radiant Consumption: You shed bright light in a 10-ft. radius and dim light for an additional 10 ft. At the end of each of your turns, each creature within 10 ft. of you takes radiant damage equal to your proficiency bonus. Once on each of your turns, you can deal extra radiant damage equal to your proficiency bonus to one target when you deal damage to it with an attack or a spell. Radiant Soul: You have a flying speed equal to your walking speed, and once on each of your turns, you can deal extra radiant damage equal to your proficiency bonus to one target when you deal damage to it with an attack or a spell."
       }
     },
     "spells": {
@@ -908,7 +908,7 @@
         "duration": "",
         "recovers": "",
         "uses": "",
-        "desc_long": "Your base walking speed increases to 35 ft.."
+        "desc_long": "Your base walking speed increases to 35 ft."
       },
       "Mask of the Wild": {
         "title": "Mask of the Wild",
@@ -1576,7 +1576,7 @@
         "duration": "",
         "recovers": "",
         "uses": "",
-        "desc_long": "You have resistance to cold damage. You also naturally acclimate to high altitudes, even if you’ve never been to one. This includes elevations above 20,000 ft.."
+        "desc_long": "You have resistance to cold damage. You also naturally acclimate to high altitudes, even if you’ve never been to one. This includes elevations above 20,000 ft."
       },
       "Stone's Endurance": {
         "title": "Stone's Endurance",
