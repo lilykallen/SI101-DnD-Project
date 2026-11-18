@@ -5652,7 +5652,7 @@
         "description": "A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is charmed, frightened, paralyzed, or stunned, the condition ends. If the creature is prone, it can use its reaction to stand up. This spell has no effect on undead or constructs.",
         "duration": "Instantaneous",
         "level": "9",
-        "name": "Power Word Heal",
+        "name": "Power Word: Heal",
         "range": "Touch",
         "ritual": false,
         "school": "evocation",
@@ -11823,7 +11823,7 @@
         "save": "",
         "concentration": true
     },
-    "arcane hand": {
+    "bigby's hand": {
         "casting_time": "1 action",
         "classes": [
             "artificer",
@@ -11842,7 +11842,7 @@
         "duration": "Up to 1 min.",
         "higher_levels": "When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th.",
         "level": "5",
-        "name": "Arcane Hand",
+        "name": "Bigby's Hand",
         "range": "120 ft.",
         "ritual": false,
         "school": "evocation",
@@ -11855,7 +11855,7 @@
         "save": "",
         "concentration": true
     },
-    "instant summons": {
+    "drawmij's instant summons": {
         "casting_time": "1 min.",
         "classes": [
             "wizard"
@@ -11872,7 +11872,7 @@
         "description": "You touch an object weighing 10 pounds or less whose longest dimension is 6 ft. or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.\n\nAt any time thereafter, you can use your action to speak the item’s name and crush the sapphire. The item instantly appears in your hand regardless of physical or planar distances, and the spell ends.\n\nIf another creature is holding or carrying the item, crushing the sapphire doesn’t transport the item to you, but instead you learn who the creature possessing the object is and roughly where that creature is located at that moment.\n\nDispel magic or a similar effect successfully applied to the sapphire ends this spell’s effect.",
         "duration": "Until dispelled",
         "level": "6",
-        "name": "Instant Summons",
+        "name": "Drawmij's Instant Summons",
         "range": "Touch",
         "ritual": true,
         "school": "conjuration",
@@ -11884,7 +11884,7 @@
         "save": "",
         "concentration": false
     },
-    "black tentacles": {
+    "evard's black tentacles": {
         "casting_time": "1 action",
         "classes": [
             "wizard"
@@ -11901,7 +11901,7 @@
         "description": "Squirming, ebony tentacles fill a 20-ft. square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.\n\nWhen a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take 3d6 bludgeoning damage and be restrained by the tentacles until the spell ends. A creature that starts its turn in the area and is already restrained by the tentacles takes 3d6 bludgeoning damage.\n\nA creature restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.",
         "duration": "Up to 1 min.",
         "level": "4",
-        "name": "Black Tentacles",
+        "name": "Evard's Black Tentacles",
         "range": "90 ft.",
         "ritual": false,
         "school": "conjuration",
@@ -11913,7 +11913,7 @@
         "save": "DEX",
         "concentration": true
     },
-    "secret chest": {
+    "leomund's secret chest": {
         "casting_time": "1 action",
         "classes": [
             "artificer",
@@ -11931,7 +11931,7 @@
         "description": "You touch an object weighing 10 pounds or less whose longest dimension is 6 ft. or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.\n\nAt any time thereafter, you can use your action to speak the item’s name and crush the sapphire. The item instantly appears in your hand regardless of physical or planar distances, and the spell ends.\n\nIf another creature is holding or carrying the item, crushing the sapphire doesn’t transport the item to you, but instead you learn who the creature possessing the object is and roughly where that creature is located at that moment.\n\nDispel magic or a similar effect successfully applied to the sapphire ends this spell’s effect.",
         "duration": "Instantaneous",
         "level": "4",
-        "name": "Secret Chest",
+        "name": "Leomund's Secret Chest",
         "range": "Touch",
         "ritual": false,
         "school": "conjuration",
@@ -11944,7 +11944,7 @@
         "save": "",
         "concentration": false
     },
-    "tiny hut": {
+    "leomund's tiny hut": {
         "casting_time": "1 min.",
         "classes": [
             "wizard",
@@ -11962,7 +11962,7 @@
         "description": "A 10-ft.-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.\n\nNine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can’t extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.\n\nUntil the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.",
         "duration": "8 hours",
         "level": "3",
-        "name": "Tiny Hut",
+        "name": "Leomund's Tiny Hut",
         "range": "Self (10-ft.-radius hemisphere)",
         "ritual": true,
         "school": "evocation",
@@ -11975,7 +11975,7 @@
         "save": "",
         "concentration": false
     },
-    "acid arrow": {
+    "melf's acid arrow": {
         "casting_time": "1 min.",
         "classes": [
             "wizard"
@@ -11993,7 +11993,7 @@
         "duration": "Instantaneous",
         "higher_levels": "When you cast this spell using a spell slot of 3rd Level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.",
         "level": "2",
-        "name": "Acid Arrow",
+        "name": "Melf's Acid Arrow",
         "range": "Self (10-ft.-radius hemisphere)",
         "ritual": false,
         "school": "evocation",
@@ -12005,7 +12005,7 @@
         "save": "",
         "concentration": false
     },
-    "faithful hound": {
+    "mordenkainen's faithful hound": {
         "casting_time": "1 action",
         "classes": [
             "artificer",
@@ -12014,7 +12014,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "A tiny silver whistle, a piece of bone, and a thread"
+                "Silver whistle, piece of bone, and thread"
             ],
             "raw": "V, S, M (A tiny silver whistle, a piece of bone, and a thread)",
             "somatic": true,
@@ -12023,7 +12023,7 @@
         "description": "You conjure a Phantom watchdog in an unoccupied space that you can see within range, where it remains for the Duration, until you dismiss it as an Action, or until you move more than 100 ft. away from it.\n\nThe hound is Invisible to all Creatures except you and can’t be harmed. When a Small or larger creature comes within 30 ft. of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound sees invisib⁠le Creatures and can see into the Ethereal Plane. It ignores illusions.\n\nAt the start of each of your turns, the hound attempts to bite one creature within 5 ft. of it that is Hostile to you. The hound’s Attack bonus is equal to your Spellcasting ability modifier + your Proficiency bonus. On a hit, it deals 4d8 piercing damage.",
         "duration": "8 hours",
         "level": "4",
-        "name": "Faithful Hound",
+        "name": "Mordenkainen's Faithful Hound",
         "range": "30 ft.",
         "ritual": false,
         "school": "conjuration",
@@ -12036,7 +12036,7 @@
         "save": "",
         "concentration": false
     },
-    "magnificent mansion": {
+    "mordenkainen's magnificent mansion": {
         "casting_time": "1 min.",
         "classes": [
             "wizard",
@@ -12054,7 +12054,7 @@
         "description": "You conjure an extradimensional dwelling in range that lasts for the Duration. You choose where its one entrance is located. The entrance shimmers faintly and is 5 ft. wide and 10 ft. tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open. You can open or close the portal if you are within 30 ft. of it. While closed, the portal is Invisible.\n\nBeyond the portal is a magnificent foyer with numerous Chambers beyond. The Atmosphere is clean, fresh, and warm.\n\nYou can create any floor plan you like, but the space can’t exceed 50 cubes, each cube being 10 ft. on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual Appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can’t Attack or take any Action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can’t leave it. Furnishings and other Objects created by this spell dissipate into smoke if removed from the mansion. When the spell ends, any Creatures or Objects left inside the extradimensional space are expelled into the open spaces nearest to the entrance.",
         "duration": "24 hours",
         "level": "7",
-        "name": "Magnificent Mansion",
+        "name": "Mordenkainen's Magnificent Mansion",
         "range": "300 ft.",
         "ritual": false,
         "school": "conjuration",
@@ -12067,7 +12067,7 @@
         "save": "",
         "concentration": false
     },
-    "private sanctum": {
+    "mordenkainen's private sanctum": {
         "casting_time": "10 min.",
         "classes": [
             "artificer",
@@ -12086,7 +12086,7 @@
         "duration": "24 hours",
         "higher_levels": "When you cast this spell using a spell slot of 5th Level or higher, you can increase the size of the cube by 100 ft. for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 ft. on one side by using a spell slot of 5th Level.",
         "level": "4",
-        "name": "Private Sanctum",
+        "name": "Mordenkainen's Private Sanctum",
         "range": "120 ft.",
         "ritual": false,
         "school": "abjuration",
@@ -12099,7 +12099,7 @@
         "save": "",
         "concentration": false
     },
-    "arcane sword": {
+    "mordenkainen's sword": {
         "casting_time": "1 action",
         "classes": [
             "wizard",
@@ -12117,7 +12117,7 @@
         "description": "You create a sword-shaped plane of force that hovers within range. It lasts for the Duration.\n\nWhen the sword appears, you make a melee spell Attack against a target of your choice within 5 ft. of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a bonus Action on each of your turns to move the sword up to 20 ft. to a spot you can see and repeat this Attack against the same target or a different one.\n\nUntil the spell ends, you can use a b⁠onus Action on each of your turns to move the sword up to 20 ft. to a spot you can see and repeat this Attack against the same target or a different one.",
         "duration": "Up to 1 min.",
         "level": "7",
-        "name": "Arcane Sword",
+        "name": "Mordenkainen's Sword",
         "range": "60 ft.",
         "ritual": false,
         "school": "evocation",
@@ -12130,7 +12130,7 @@
         "save": "",
         "concentration": true
     },
-    "arcanist’s magic aura": {
+    "Nystul’s magic aura": {
         "casting_time": "1 action",
         "classes": [
             "wizard"
@@ -12147,7 +12147,7 @@
         "description": "You place an Illusion on a creature or an object you touch so that Divination Spells reveal false information about it. The target can be a willing creature or an object that isn’t being carried or worn by another creature.\n\nWhen you cast the spell, choose one or both of the following Effects. The Effect lasts for the Duration. If you cast this spell on the same creature or object every day for 30 days, placing the same Effect on it each time, the i⁠llusion lasts until it is dispelled.\n\nFalse Aura. You change the way the target appears to Spells and Magical Effects, such as Detect Magic, that detect Magical auras. You can make a nonmagical object appear Magical, a Magical object appear nonmagical, or change the object’s Magical aura so that it appears to belong to a specific School of Magic that you choose. When you use this Effect on an object, you can make the false magic apparent to any creature that handles the item.\n\nMask. You change the way the target appears to Spells and Magical Effects that detect Creature Types, such as a paladin’s Divine Sense or the trigger of a sym⁠bol spell. You choose a Creature Type and other Spells and Magical Effects treat the target as if it were a creature of that type or of that Alignment.",
         "duration": "24 hours",
         "level": "2",
-        "name": "Arcanist’s Magic Aura",
+        "name": "Nystul’s Magic Aura",
         "range": "Touch",
         "ritual": false,
         "school": "illusion",
@@ -12159,7 +12159,7 @@
         "save": "",
         "concentration": false
     },
-    "freezing sphere": {
+    "otiluke's freezing sphere": {
         "casting_time": "1 action",
         "classes": [
             "wizard",
@@ -12178,7 +12178,7 @@
         "duration": "Instantaneous",
         "higher_levels": "When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.",
         "level": "6",
-        "name": "Freezing Sphere",
+        "name": "Otiluke's Freezing Sphere",
         "range": "300 ft.",
         "ritual": false,
         "school": "evocation",
@@ -12191,7 +12191,7 @@
         "save": "CON",
         "concentration": false
     },
-    "resilient sphere": {
+    "otiluke's resilient sphere": {
         "casting_time": "1 action",
         "classes": [
             "artificer",
@@ -12209,7 +12209,7 @@
         "description": "A s⁠phere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the Duration.\n\nNothing—not physical Objects, energy, or other spell effects—can pass through the barrier, in or out, though a creature in the s⁠phere can breathe there. The s⁠phere is immune to all damage, and a creature or object inside can’t be damaged by Attacks or Effects originating from outside, nor can a creature inside the s⁠phere damage anything outside it.\n\nThe s⁠phere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its Action to push against the sphere’s walls and thus roll the s⁠phere at up to half the creature’s speed. Similarly, the globe can be picked up and moved by other Creatures.\n\nA Disintegrate spell targeting the globe destroys it without harming anything inside it.",
         "duration": "Up to 1 min.",
         "level": "4",
-        "name": "Resilient Sphere",
+        "name": "Otiluke's Resilient Sphere",
         "range": "30 ft.",
         "ritual": false,
         "school": "evocation",
@@ -12222,7 +12222,7 @@
         "save": "DEX",
         "concentration": true
     },
-    "irresistible dance": {
+    "otto's irresistible dance": {
         "casting_time": "1 action",
         "classes": [
             "wizard",
@@ -12237,7 +12237,7 @@
         "description": "Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its ft., and capering for the Duration. Creatures that can’t be Charmed are immune to this spell.\n\nA Dancing creature must use all its Movement to dance without leaving its space and has disadvantage on Dexterity Saving Throws and Attack rolls. While the target is affected by this spell, other Creatures have advantage on a⁠ttack rolls against it. As an Action, a Dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.",
         "duration": "Up to 1 min.",
         "level": "6",
-        "name": "Irresistible Dance",
+        "name": "Otto's Irresistible Dance",
         "range": "30 ft.",
         "ritual": false,
         "school": "enchantment",
@@ -12250,7 +12250,7 @@
         "save": "",
         "concentration": true
     },
-    "telepathic bond": {
+    "rary's telepathic bond": {
         "casting_time": "1 action",
         "classes": [
             "wizard",
@@ -12268,7 +12268,7 @@
         "description": "You forge a Telepathic link among up to eight willing Creatures of your choice within range, psychically linking each creature to all the others for the Duration. Creatures with Intelligence scores of 2 or less aren’t affected by this spell.\n\nUntil the spell ends, the Targets can communicate telepathically through the bond whether or not they have a Common language. The Communication is possible over any distance, though it can’t extend to Other Planes of existence.",
         "duration": "1 hour",
         "level": "5",
-        "name": "Telepathic Bond",
+        "name": "Rary's Telepathic Bond",
         "range": "30 ft.",
         "ritual": true,
         "school": "divination",
@@ -12281,7 +12281,7 @@
         "save": "",
         "concentration": false
     },
-    "hideous laughter": {
+    "tasha's hideous laughter": {
         "casting_time": "1 action",
         "classes": [
             "wizard",
@@ -12299,7 +12299,7 @@
         "description": "A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming Incapacitated and unable to stand up for the Duration. A creature with an Intelligence score of 4 or less isn’t affected.\n\nAt the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.",
         "duration": "Up to 1 min.",
         "level": "1",
-        "name": "Hideous Laughter",
+        "name": "Tasha's Hideous Laughter",
         "range": "30 ft.",
         "ritual": false,
         "school": "enchantment",
@@ -12312,7 +12312,7 @@
         "save": "WIS",
         "concentration": true
     },
-    "floating disk": {
+    "tenser's floating disk": {
         "casting_time": "1 action",
         "classes": [
             "wizard"
@@ -12329,7 +12329,7 @@
         "description": "A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming Incapacitated and unable to stand up for the Duration. A creature with an Intelligence score of 4 or less isn’t affected.\n\nAt the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.",
         "duration": "1 hour",
         "level": "1",
-        "name": "Floating Disk",
+        "name": "Tenser's Floating Disk",
         "range": "30 ft.",
         "ritual": true,
         "school": "conjuration",
