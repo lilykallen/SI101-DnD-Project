@@ -449,7 +449,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a drop of water if creating water, or a few grains of sand if destroying it"
+                "a drop of water or grains of sand"
             ],
             "raw": "V, S, M (a drop of water if creating water, or a few grains of sand if destroying it)",
             "somatic": true,
@@ -520,7 +520,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a bit of phosphorus or wychwood, or a glowworm"
+                "phosphorus, wychwood, or glowworm"
             ],
             "raw": "V, S, M (a bit of phosphorus or wychwood, or a glowworm)",
             "somatic": true,
@@ -911,7 +911,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a small amount of alcohol or distilled spirits"
+                "a small amnt of alcohol"
             ],
             "raw": "V, S, M (a small amount of alcohol or distilled spirits)",
             "somatic": true,
@@ -946,7 +946,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a small feather or a piece of down"
+                "a feather or piece of down"
             ],
             "raw": "V, M (a small feather or a piece of down)",
             "somatic": false,
@@ -978,7 +978,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "10gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier"
+                "10gp worth of charcoal, incense, and herbs"
             ],
             "raw": "V, S, M (10gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)",
             "somatic": true,
@@ -1073,7 +1073,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a small amount of makeup applied to the face as this spell is cast"
+                "a small amount of makeup"
             ],
             "raw": "S, M (a small amount of makeup applied to the face as this spell is cast)",
             "somatic": true,
@@ -1397,7 +1397,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a pearl worth at least 100 gp and an owl feather"
+                "pearl worth 100 gp and an owl feather"
             ],
             "raw": "V, S, M (a pearl worth at least 100 gp and an owl feather)",
             "somatic": true,
@@ -1430,7 +1430,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a lead-based ink worth at least 10gp, which this spell consumes"
+                "a lead-based ink worth 10gp"
             ],
             "raw": "S, M (a lead-based ink worth at least 10gp, which this spell consumes)",
             "somatic": true,
@@ -1900,7 +1900,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "holy water or powdered silver and iron, which the spell consumes"
+                "holy water or powdered silver and iron"
             ],
             "raw": "V, S, M (holy water or powdered silver and iron, which the spell consumes)",
             "somatic": true,
@@ -2146,7 +2146,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a small parchment with a bit of holy text written on it"
+                "a small parchment with a bit of holy text"
             ],
             "raw": "V, S, M (a small parchment with a bit of holy text written on it)",
             "somatic": true,
@@ -2231,7 +2231,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "mistletoe, a shamrock leaf, and a club or quarterstaff"
+                "mistletoe, a shamrock leaf, and a club/quarterstaff"
             ],
             "raw": "V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)",
             "somatic": true,
@@ -2783,7 +2783,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "specially marked sticks, bones, or similar tokens worth at least 25 gp"
+                "marked sticks, bones, or similar tokens worth 25 gp"
             ],
             "raw": "V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)",
             "somatic": true,
@@ -3000,7 +3000,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration"
+                "a pair of platinum rings worth 50 gp each"
             ],
             "raw": "V, S, M (a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration)",
             "somatic": true,
@@ -3030,7 +3030,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a drop of blood, a piece of flesh, and a pinch of bone dust"
+                "a drop of blood, piece of flesh, and pinch of bone dust"
             ],
             "raw": "V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)",
             "somatic": true,
@@ -3384,7 +3384,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a focus worth at least 100gp, either a jeweled horn for hearing or a glass eye for seeing"
+                "a focus worth 100gp, either jeweled horn or glass eye"
             ],
             "raw": "V, S, M (a focus worth at least 100gp, either a jeweled horn for hearing or a glass eye for seeing)",
             "somatic": true,
@@ -3934,7 +3934,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a glowing stick of incense or a crystal vial filled with phosphorescent material"
+                "a glowing stick of incense or crystal vial with phosphorescent material"
             ],
             "raw": "S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)",
             "somatic": true,
@@ -3996,7 +3996,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "holy water or powdered silver and iron worth at least 100 gp, which the spell consumes"
+                "holy water or powdered silver and iron worth 100 gp"
             ],
             "raw": "V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)",
             "somatic": true,
@@ -4123,7 +4123,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "gold dust w orth at least 25 gp, which the spell consumes"
+                "gold dust worth 25 gp"
             ],
             "raw": "V, S, M (gold dust w orth at least 25 gp, which the spell consumes)",
             "somatic": true,
@@ -4186,7 +4186,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes"
+                "a pinch of diamond dust worth 25 gp sprinkled over the target"
             ],
             "raw": "V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)",
             "somatic": true,
@@ -4339,7 +4339,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "diamonds worth 300 gp, which the spell consumes"
+                "diamonds worth 300 gp"
             ],
             "raw": "V, S, M (diamonds worth 300 gp, which the spell consumes)",
             "somatic": true,
@@ -5097,7 +5097,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "either a hump of alum soaked in vinegar for the _antipathy_ effect or a drop of honey for the _sympathy_ effect"
+                "either alum soaked in vinegar or a drop of honey"
             ],
             "raw": "V, S, M (either a hump of alum soaked in vinegar for the _antipathy_ effect or a drop of honey for the _sympathy_ effect)",
             "somatic": true,
@@ -5129,7 +5129,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "for each creature you affect with this spell you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100gp, all of which the spell consumes"
+                "jacinth worth 1,000 gp and carved silver bar worth 100gp"
             ],
             "raw": "V, S, M (for each creature you affect with this spell you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100gp, all of which the spell consumes)",
             "somatic": true,
@@ -5160,7 +5160,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a medium creature, such as a large urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water"
+                "1000gp diamond, 1 cb. in. of flesh, 2000gp vessel"
             ],
             "raw": "V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a medium creature, such as a large urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water)",
             "somatic": true,
@@ -5450,7 +5450,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text"
+                "a tiny reliquary worth at least 1,000 gp"
             ],
             "raw": "V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)",
             "somatic": true,
@@ -5480,7 +5480,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gb per Hit Die of the target"
+                "a carved statuette in the likeness of the target"
             ],
             "raw": "V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gb per Hit Die of the target)",
             "somatic": true,
@@ -5766,7 +5766,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell"
+                "a jade circlet worth at least 1,500 gp"
             ],
             "raw": "V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)",
             "somatic": true,
@@ -5975,7 +5975,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes"
+                "a sprinkle of holy water and diamonds worth at least 25,000 gp"
             ],
             "raw": "V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)",
             "somatic": true,
@@ -6527,7 +6527,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a powder of diamond, emerald, rube and sapphire dust worth at least 5,000 gp, which the spell consumes"
+                "a powder of diamond, emerald, rube and sapphire dust worth 5,000 gp"
             ],
             "raw": "V, S, M (a powder of diamond, emerald, rube and sapphire dust worth at least 5,000 gp, which the spell consumes)",
             "somatic": true,
@@ -6556,7 +6556,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell"
+                "snow or ice, some hair, and powdered ruby worth 1,500 gp"
             ],
             "raw": "V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)",
             "somatic": true,
@@ -6587,7 +6587,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes"
+                "mercury, phosphorus, and powdered diamond and opal worth 1,000 gp"
             ],
             "raw": "V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)",
             "somatic": true,
@@ -7109,7 +7109,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water"
+                "burning incense, soft clay, sulfur and phosphorus, or water and sand"
             ],
             "raw": "V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)",
             "somatic": true,
@@ -7285,7 +7285,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse"
+                "pot filled with grave dirt, pot filled with brackish water, and one 150 gp black onyx"
             ],
             "raw": "V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)",
             "somatic": true,
@@ -7442,7 +7442,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes"
+                "incense and a sacrificial offering worth 25 gp"
             ],
             "raw": "V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)",
             "somatic": true,
@@ -7564,7 +7564,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird"
+                "a handful of sand, a dab of ink, and a writing quill"
             ],
             "raw": "V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)",
             "somatic": true,
@@ -7782,7 +7782,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a set of divinatory tools -- such as bones, ivory sticks, cards, teeth, or carved runes -- worth 100 gp and an object from the location you wish to find"
+                "a set of divinatory tools worth 100 gp and an object from location"
             ],
             "raw": "V, S, M (a set of divinatory tools -- such as bones, ivory sticks, cards, teeth, or carved runes -- worth 100 gp and an object from the location you wish to find)",
             "somatic": true,
@@ -7995,7 +7995,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a sprinkling of holy water, rare incense, and powdered ruby worth at least 1000 gp"
+                "holy water, rare incense, and powdered ruby worth 1000 gp"
             ],
             "raw": "V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1000 gp)",
             "somatic": true,
@@ -8097,7 +8097,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration"
+                "a pinch of salt and one copper piece placed on each of the corpse's eyes"
             ],
             "raw": "V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration)",
             "somatic": true,
@@ -8341,7 +8341,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "burning incense, a small measure of brimstone and oil, a knotled string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp"
+                "incense, brimstone and oil, a knotled string, umber hulk blood, and  silver rod"
             ],
             "raw": "V, S, M (burning incense, a small measure of brimstone and oil, a knotled string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)",
             "somatic": true,
@@ -8439,7 +8439,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "herbs, oils, and incense worth at least 1,000 gp, which the spell consumes"
+                "herbs, oils, and incense worth at least 1,000 gp"
             ],
             "raw": "V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)",
             "somatic": true,
@@ -8558,7 +8558,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes"
+                "a gem-encrusted bowl worth at least 1,000 gp"
             ],
             "raw": "V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)",
             "somatic": true,
@@ -8724,7 +8724,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each"
+                "incense worth 250 gp, and four ivory strips worth 50 gp "
             ],
             "raw": "V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)",
             "somatic": true,
@@ -8757,7 +8757,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "either a small leather loop or a pieee of golden wire bent into a cup shape with a long shank on one end"
+                "either a small leather loop or a piece of golden wire"
             ],
             "raw": "V, S, M (either a small leather loop or a pieee of golden wire bent into a cup shape with a long shank on one end)",
             "somatic": true,
@@ -8931,7 +8931,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp"
+                "a gem, crystal, reliquary, or other ornamental container worth 500 gp"
             ],
             "raw": "V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)",
             "somatic": true,
@@ -8993,7 +8993,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes"
+                "a small bit of honeycomb and jade dust worth at least 10 gp"
             ],
             "raw": "V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)",
             "somatic": true,
@@ -9240,7 +9240,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "an iron blade and a small bag containing a mixture of soils--c1ay, loam, and sand"
+                "an iron blade and a small bag containing a mixture of soils"
             ],
             "raw": "V, S, M (an iron blade and a small bag containing a mixture of soils--c1ay, loam, and sand)",
             "somatic": true,
@@ -9521,7 +9521,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a diamond worth at least 500 gp, which the spell consumes"
+                "a diamond worth at least 500 gp"
             ],
             "raw": "V, S, M (a diamond worth at least 500 gp, which the spell consumes)",
             "somatic": true,
@@ -9707,7 +9707,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water"
+                "a focus worth 1,000 gp"
             ],
             "raw": "V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)",
             "somatic": true,
@@ -9877,7 +9877,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "seven sharp thorns or seven small twigs, each sharpened to a point"
+                "seven sharp thorns or seven small twigs"
             ],
             "raw": "V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)",
             "somatic": true,
@@ -9936,7 +9936,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "soft clay, which must be worked into roughly the desired shape of the stone object"
+                "soft clay, in the desired shape of object"
             ],
             "raw": "V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)",
             "somatic": true,
@@ -10005,7 +10005,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "diamond dust worth 100 gp, which the spell consumes"
+                "diamond dust worth 100 gp"
             ],
             "raw": "V, S, M (diamond dust worth 100 gp, which the spell consumes)",
             "somatic": true,
@@ -10097,7 +10097,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "rare chalks and inks infused with precious gems with 50 gp, which the spell consumes"
+                "rare chalks and inks infused with precious gems with 50 gp"
             ],
             "raw": "V, M (rare chalks and inks infused with precious gems with 50 gp, which the spell consumes)",
             "somatic": false,
@@ -10186,7 +10186,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "an ointment for the eyes that costs 25 gp, is made from mushroom powder, saffron, and fat, and is consumed by the spell"
+                "an ointment made from mushroom powder, saffron, and fat"
             ],
             "raw": "V, S, M (an ointment for the eyes that costs 25 gp, is made from mushroom powder, saffron, and fat, and is consumed by the spell)",
             "somatic": true,
@@ -11922,7 +11922,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "An exquisite chest, 3 ft. by 2 ft. by 2 ft., constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp"
+                "An exquisite chest of rare materials worth 5,000 gp, and a Tiny replica"
             ],
             "raw": "V, S, M (An exquisite chest, 3 ft. by 2 ft. by 2 ft., constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)",
             "somatic": true,
@@ -12045,7 +12045,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "A miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp"
+                "A miniature ivory portal, polished marble, and silver spoon"
             ],
             "raw": "V, S, M (A miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)",
             "somatic": true,
@@ -12076,7 +12076,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "A thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite"
+                "lead, opaque glass, cotton or cloth, and powdered chrysolite"
             ],
             "raw": "V, S, M (A thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)",
             "somatic": true,
@@ -12108,7 +12108,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "A miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp"
+                "A mini platinum sword with a grip and pommel of copper and zinc, worth 250 gp"
             ],
             "raw": "V, S, M (A miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)",
             "somatic": true,
@@ -12200,7 +12200,7 @@
         "components": {
             "material": true,
             "materials_needed": [
-                "A hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic"
+                "A piece of clear crystal and a matching piece of gum arabic"
             ],
             "raw": "V, S, M (A hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)",
             "somatic": true,
