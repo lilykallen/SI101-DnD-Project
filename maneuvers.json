@@ -22,7 +22,7 @@
       "duration": "",
       "recovers": "",
       "uses": "",
-      "desc_long": "When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks. Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled."
+      "desc_long": "When you're within 5 ft. of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 ft. of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks. Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled."
     },
     "bait and switch": {
       "title": "Bait and Switch",
@@ -34,7 +34,7 @@
       "duration": "",
       "recovers": "",
       "uses": "",
-      "desc_long": "When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks. Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled."
+      "desc_long": "When you're within 5 ft. of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 ft. of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks. Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled."
     },
     "brace": {
       "title": "Brace",
@@ -82,7 +82,7 @@
       "duration": "",
       "recovers": "",
       "uses": "",
-      "desc_long": "When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet."
+      "desc_long": "When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its ft."
     },
     "distracting strike": {
       "title": "Distracting Strike",
@@ -96,8 +96,8 @@
       "uses": "",
       "desc_long": "When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn."
     },
-    "evasive footwork": {
-      "title": "Evasive Footwork",
+    "evasive ft.work": {
+      "title": "Evasive ft.work",
       "level": 0,
       "class": "Battle Master Maneuver",
       "range": "",
@@ -118,7 +118,7 @@
       "duration": "",
       "recovers": "",
       "uses": "",
-      "desc_long": "You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack's damage roll."
+      "desc_long": "You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 ft. of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack's damage roll."
     },
     "goading attack": {
       "title": "Goading Attack",
@@ -154,7 +154,7 @@
       "duration": "",
       "recovers": "",
       "uses": "",
-      "desc_long": "When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll."
+      "desc_long": "When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 ft. If you hit, you add the superiority die to the attack's damage roll."
     },
     "maneuvering attack": {
       "title": "Maneuvering Attack",
@@ -214,7 +214,7 @@
       "duration": "",
       "recovers": "",
       "uses": "",
-      "desc_long": "When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you."
+      "desc_long": "When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 ft. away from you."
     },
     "quick toss": {
       "title": "Quick Toss",
@@ -262,7 +262,7 @@
       "duration": "",
       "recovers": "",
       "uses": "",
-      "desc_long": "When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack."
+      "desc_long": "When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 ft. of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack."
     },
     "tactical assessment": {
       "title": "Tactical Assessment",
