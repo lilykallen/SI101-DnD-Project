@@ -255,7 +255,7 @@
             "duration": "",
             "recovers": "",
             "uses": "",
-            "desc_long": "Infiltrator. You customize your armor for subtle undertakings. It has the following features:\n- Lightning Launcher. A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 ft. and a long range of 300 ft., and it deals 1d6 lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra 1d6 lightning damage to that target.\n- Powered Steps. Your walking speed increases by 5 ft..\n- Dampening Field. You have advantage on Dexterity (Stealth) checks. If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal."
+            "desc_long": "Infiltrator. You customize your armor for subtle undertakings. It has the following features:\n- Lightning Launcher. A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 ft. and a long range of 300 ft., and it deals 1d6 lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra 1d6 lightning damage to that target.\n- Powered Steps. Your walking speed increases by 5 ft.\n- Dampening Field. You have advantage on Dexterity (Stealth) checks. If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal."
           },
           "Extra Attack": {
             "title": "Extra Attack",
