@@ -8103,7 +8103,7 @@
             "somatic": true,
             "verbal": true
         },
-        "description": "You touch a corpse or other remains. For the duration, the target is protected from decay and can’t become undead.\n\nThe spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don’t count against the time limit of spells such as [raise dead](./raise-dead/ \"raise dead (lvl 5)\").",
+        "description": "You touch a corpse or other remains. For the duration, the target is protected from decay and can’t become undead.\n\nThe spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don’t count against the time limit of spells such as raise dead.",
         "duration": "10 days",
         "level": "2",
         "name": "Gentle Repose",
@@ -12130,7 +12130,7 @@
         "save": "",
         "concentration": true
     },
-    "Nystul’s magic aura": {
+    "nystul’s magic aura": {
         "casting_time": "1 action",
         "classes": [
             "wizard"
@@ -12340,5 +12340,149 @@
         "type": "1st-level conjuration (ritual)",
         "save": "WIS",
         "concentration": false
-    }
-}
+    },
+    "arms of hadar": {
+        "casting_time": "1 action",
+        "classes": [
+            "warlock"
+        ],
+        "components": {
+            "material": false,
+            "raw": "V, S",
+            "somatic": true,
+            "verbal": true
+        },
+        "description": "Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.",
+        "duration": "Instantaneous",
+        "level": "1",
+        "name": "Arms of Hadar",
+        "range": "Self (10-ft. radius)",
+        "ritual": false,
+        "school": "conjuration",
+        "tags": [
+            "warlock",
+            "level1"
+        ],
+        "type": "1st-level conjuration",
+        "save": "STR",
+        "concentration": false
+},
+    "mind sliver": {
+        "casting_time": "1 action",
+        "classes": [
+            "sorcerer",
+            "warlock",
+            "wizard"
+        ],
+        "components": {
+            "material": false,
+            "raw": "V",
+            "somatic": false,
+            "verbal": true
+        },
+        "description": "You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must succeed on an Intelligence saving throw or take 1d6 psychic damage and subtract 1d4 from the next saving throw it makes before the end of your next turn.",
+        "duration": "1 round",
+        "level": "0",
+        "name": "Mind Sliver",
+        "range": "60 ft.",
+        "ritual": false,
+        "school": "enchantment",
+        "tags": [
+            "sorcerer",
+            "warlock",
+            "wizard",
+            "cantrip"
+        ],
+        "type": "enchantment cantrip",
+        "save": "INT",
+        "concentration": false
+},
+    "hunger of hadar": {
+        "casting_time": "1 action",
+        "classes": [
+            "warlock"
+        ],
+        "components": {
+            "material": true,
+            "materials_needed": [
+                "A pickled octopus tentacle"
+            ],
+            "raw": "V, S, M",
+            "somatic": true,
+            "verbal": true
+        },
+        "description": " A 20-foot-radius sphere of blackness and bitter cold appears, centered on a point within range and lasting for the duration. This void is filled with a cacophony of soft whispers and slurping noises that can be heard up to 30 feet away. No light, magical or otherwise, can illuminate the area, and creatures fully within the area are blinded. The void creates a warp in the fabric of space, and the area is difficult terrain. Any creature that starts its turn in the area takes 2d6 cold damage. Any creature that ends its turn in the area must succeed on a Dexterity saving throw or take 2d6 acid damage.",
+        "duration": "1 round",
+        "level": "3",
+        "name": "Hunger of Hadar",
+        "range": "150 ft.",
+        "ritual": false,
+        "school": "conjuration",
+        "tags": [
+            "warlock",
+            "level3"
+        ],
+        "type": "3rd-level conjuration",
+        "save": "DEX",
+        "concentration": false
+},
+    "summon construct": {
+        "casting_time": "1 action",
+        "classes": [
+            "artificer"
+        ],
+        "components": {
+            "material": true,
+            "materials_needed": [
+                "An ornate stone and lockbox worth 400 gp"
+            ],
+            "raw": "V, S, M",
+            "somatic": true,
+            "verbal": true
+        },
+        "description": "You call forth the spirit of a construct. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Construct Spirit stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles a golem or a modron (your choice) made of the chosen material, which determines certain traits in its stat block.",
+        "duration": "1 round",
+        "level": "4",
+        "name": "Summon Construct",
+        "range": "90 ft.",
+        "ritual": false,
+        "school": "conjuration",
+        "tags": [
+            "artificer",
+            "level4"
+        ],
+        "type": "4th-level conjuration",
+        "save": "",
+        "concentration": true
+},
+    "summon construct": {
+        "casting_time": "1 action",
+        "classes": [
+            "artificer"
+        ],
+        "components": {
+            "material": true,
+            "materials_needed": [
+                "An ornate stone and lockbox worth 400 gp"
+            ],
+            "raw": "V, S, M",
+            "somatic": true,
+            "verbal": true
+        },
+        "description": "You call forth the spirit of a construct. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Construct Spirit stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles a golem or a modron (your choice) made of the chosen material, which determines certain traits in its stat block.",
+        "duration": "1 round",
+        "level": "4",
+        "name": "Summon Construct",
+        "range": "90 ft.",
+        "ritual": false,
+        "school": "conjuration",
+        "tags": [
+            "artificer",
+            "level4"
+        ],
+        "type": "4th-level conjuration",
+        "save": "",
+        "concentration": true
+},
+    
+    
